@@ -55,6 +55,8 @@ Best Methods:
 
 - Leveling
 
+  EXP Table -- [https://thepalprofessor.com/xp-tables/]
+
 | Relevant Items / Adj.    | Obtain                             | Reasoning                                                                                                                                                                                                      |
 | ------------------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Growth Acceleration Bell | -26, -92 at Mount Flopie           | Pal exp up lv.3 - (approx. 50%)                                                                                                                                                                                |
