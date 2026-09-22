@@ -10,11 +10,14 @@
 |           | Awakening    |          |
 |           |              | Leveling |
 
-Best Methods:
+METHODS
+
+- Breeding
+  - Some pals are easily obtained through breeding, and some passives can only be inherited through breeding. This is the best breeding calculator: https://palbreed.com/breeding-path
 
 - Potential
 
-- Passives
+- Passives -- [ PalProfessor's List: https://thepalprofessor.com/best-builds/ ]
 
 | Workers                  | Stats | Method | Comment                                               |
 | ------------------------ | ----- | ------ | ----------------------------------------------------- |
