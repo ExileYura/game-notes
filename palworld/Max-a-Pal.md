@@ -12,7 +12,7 @@
 
 METHODS
 
-- Breeding: Some pals are easily obtained through breeding, and some passives can only be inherited through breeding. This is the best breeding calculator: https://palbreed.com/breeding-path
+- Breeding: https://palbreed.com/breeding-path
 
 - Potential
 
