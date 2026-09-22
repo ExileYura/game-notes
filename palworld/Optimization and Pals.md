@@ -1,3 +1,7 @@
+BASE
+
+---
+
 | Base           | Pal         | Lvl in Role | Secondary Suitabilities                         | Extras                     | Comment        |
 | -------------- | ----------- | ----------- | ----------------------------------------------- | -------------------------- | -------------- |
 | Kindling       | Bushi Noct  | 2 to 4      | Lumbering, Handiwork, Transportation, Gathering | Small, Dark                |                |
@@ -60,6 +64,16 @@
 | Mycora                 | Medicine       |
 | Wumpo                  | Transportation |
 | Cinnamoth              | Ranching       |
+
+Farming Information.
+
+- Lettuce and Tomato plantations both produce the same quantity, but Lettuce grows for 330s, while tomato grows for 300s. Perfect ratio is 33 Lettuce : 30 Tomato; or scaled similar. NEEDS TESTING FOR EXACT NUMBERS, SOURCES ARE INCONSISTENT. (Maybe 225 to 180).
+
+---
+
+COMBAT
+
+---
 
 | Combat | Pal | Lvl in Role | Secondary Suitabilities | Extras | Comment |
 | ------ | --- | ----------- | ----------------------- | ------ | ------- |
