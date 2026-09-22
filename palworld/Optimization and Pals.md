@@ -71,7 +71,7 @@ Farming Information.
 
 ---
 
-COMBAT
+COMBAT -- [ Mechanics | https://thepalprofessor.com/combat-mechanics/ ]
 
 ---
 
