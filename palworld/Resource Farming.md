@@ -1,6 +1,9 @@
-| Resources  | Link                                              |
-| ---------- | ------------------------------------------------- |
-| Schematics | https://thepalprofessor.com/legendary-schematics/ |
+| Resources                 | Link                                               |
+| ------------------------- | -------------------------------------------------- |
+| Schematics - Set Location | https://thepalprofessor.com/ancient-ruins/         |
+| Schematics - Farmed       | https://thepalprofessor.com/legendary-schematics/  |
+| Skill Fruit Locations     | https://thepalprofessor.com/skill-fruit-locations/ |
+| Gold                      | https://thepalprofessor.com/making-money/          |
 
 | Item       | Method                                                                           | Relevant Stats                                |
 | ---------- | -------------------------------------------------------------------------------- | --------------------------------------------- |
