@@ -17,3 +17,5 @@
 | 15  | Transport              |                          |
 | 16  | Gathering: Spawns      |                          |
 | 17  | Cooling                |                          |
+
+src: Pal Professor (v1.0.3) [https://thepalprofessor.com/work-priority/]
