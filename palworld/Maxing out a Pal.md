@@ -53,7 +53,7 @@ Best Methods:
 
 - Awakening
 
-- Leveling -- ( EXP Table | [https://thepalprofessor.com/xp-tables/] )
+- Leveling -- [ EXP Table | https://thepalprofessor.com/xp-tables/ ]
 
 | Relevant Items / Adj.    | Obtain                             | Reasoning                                                                                                                                                                                                      |
 | ------------------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
