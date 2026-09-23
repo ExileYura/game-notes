@@ -18,16 +18,17 @@ METHODS
 
 - Passives -- [ PalProfessor's List: https://thepalprofessor.com/best-builds/ ]
 
-| Workers                  | Stats | Method | Comment                                               |
-| ------------------------ | ----- | ------ | ----------------------------------------------------- |
-| Remarkable Craftsmanship |       |        |                                                       |
-| Demon's Hand             |       |        |                                                       |
-| Artisan                  |       |        |                                                       |
-| Insomnia                 |       |        | Sleep negation.                                       |
-| Vampiric                 |       |        | Sleep negation.                                       |
-| Work Slave               |       |        | Dark Pals only, since they don't need sleep negation. |
+| Workers                  | Stats           | Method              | Comment         |
+| ------------------------ | --------------- | ------------------- | --------------- |
+| Demon's Hand             | Work Speed +90% | World Tree          |                 |
+| Remarkable Craftsmanship | Work Speed +75% | Breed or Disposable |                 |
+| Artisan                  | Work Speed +50% | Surgery             |                 |
+| Insomnia                 |                 |                     | Sleep negation. |
+| Vampiric                 |                 |                     | Sleep negation. |
+| Work Slave               | Work Speed +30% | Surgery             | Dark Pals only. |
 
 - Actives
+
   - Skill Tree Farming.
 
 - Condensation
@@ -75,7 +76,10 @@ METHODS
 
 On Alphas:
 
-- Base: Non-alphas are smaller, producing less visual clutter. Alphas can struggle getting through certain entrance sizes, so the base must be adjusted to their size.
+- Base:
+  - Non-alphas are smaller, producing less visual clutter.
+  - Alphas can struggle getting through certain entrance sizes, so the base must be adjusted to their size.
+  - Due to how frame logic works, Pals that are generally bigger will move faster (even if the stats are the same on paper with their smaller counterparts) - they are better for transporation, or other roles that require lots of travel.
 - Combat: Non-alphas have smaller hitboxes. Alphas have 7.6% to 7.9% higher HP (depending on the pal). Non-alphas are most often better.
 - Expedition: Alphas' higher HP wins with no downside.
 
