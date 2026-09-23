@@ -1,64 +1,22 @@
-| Food Item              | Nutrition | SAN | Extra Bonus/Buff (if any)                                | Recipe                                                            |
-| ---------------------- | --------: | --: | -------------------------------------------------------- | ----------------------------------------------------------------- |
-| Baked Berries          |        21 |   1 |                                                          | x1 Red Berries                                                    |
-| Baked Mushroom         |        18 |   1 |                                                          | x1 Mushroom                                                       |
-| Bread                  |        27 |   4 |                                                          | x1 Flour                                                          |
-| Broiled Dumud          |        70 |   1 |                                                          | x1 Raw Dumud                                                      |
-| Broncherry Meat        |       180 |     |                                                          |                                                                   |
-| Broncherry Rib Roast   |       252 |   3 |                                                          | x1 Broncherry Meat                                                |
-| Cake                   |       656 |  82 |                                                          | x5 Flour, x8 Red Berries, x7 Milk, x8 Egg, x2 Honey               |
-| Caprity Meat           |        57 |     |                                                          |                                                                   |
-| Chikipi Poultry        |        36 |     |                                                          |                                                                   |
-| Chikipi Saute          |        92 |  12 | Workspeed +30%                                           | x1 Chikipi Poultry, x2 Red Berries                                |
-| Cotton Candy           |         5 |   5 |                                                          |                                                                   |
-| Egg                    |        16 |     |                                                          |                                                                   |
-| Eikthyrdeer Venison    |        50 |     |                                                          |                                                                   |
-| Fried Egg              |        23 |   1 |                                                          | x1 Egg                                                            |
-| Galeclaw Poultry       |        36 |     |                                                          |                                                                   |
-| Grilled Chikipi        |        50 |   1 |                                                          | x1 Chikipi Poultry                                                |
-| Grilled Galeclaw       |        50 |   1 |                                                          | x1 Galeclaw Poultry                                               |
-| Grilled Kelpsea        |        50 |   1 |                                                          | x1 Raw Kelpsea                                                    |
-| Grilled Lamball        |       147 |  18 | Workspeed + 30%, Slightly reduce SAN Decay               | x1 Lamball Mutton, x2 Lettuce                                     |
-| Herb Roasted Caprity   |        80 |   1 |                                                          | x1 Caprity Meat                                                   |
-| Herb Roasted Lamball   |        94 |  12 | Defense +10%                                             | x1 Lamball Mutton, x2 RedBerries                                  |
-| Honey                  |        10 |   3 |                                                          |                                                                   |
-| Hot Milk               |        16 |   1 |                                                          | x1 Milk                                                           |
-| Jam-filled Bun         |        51 |   6 |                                                          | x1 Flour, x2 Red Berries                                          |
-| Lamball Kebab          |        52 |   1 |                                                          | x1 Lamball Mutton                                                 |
-| Lamball Mutton         |        37 |     |                                                          |                                                                   |
-| Lettuce                |        15 |     |                                                          |                                                                   |
-| Mammorest Meat         |       180 |     |                                                          |                                                                   |
-| Mammorest Steak        |       252 |   3 |                                                          | x1 Mammorest Meat                                                 |
-| Marinated Mushrooms    |        60 |   7 | Defense +10%                                             | x1 Mushroom, x2 Red Berries                                       |
-| Milk                   |        12 |     |                                                          |                                                                   |
-| Mozzarina Steak        |        80 |   1 |                                                          | x1 Mozzerina Meat                                                 |
-| Mozzerina Meat         |        57 |     |                                                          |                                                                   |
-| Mushroom               |        13 |     |                                                          |                                                                   |
-| Mushroom Soup          |        52 |   7 | +Fullness                                                | x1 Mushroom, x2 Milk                                              |
-| Omelet                 |        67 |   7 | Attack +10%                                              | x1 Tomato, x2 Egg                                                 |
-| Pancake                |        42 |   5 | Progressively Reduce SAN Decay                           | x1 Flour, x1 Milk                                                 |
-| Raw Dumud              |        50 |     |                                                          |                                                                   |
-| Raw Kelpsea            |        36 |     |                                                          |                                                                   |
-| Red Berries            |        15 |     |                                                          |                                                                   |
-| Reindrix Stew          |       132 |  17 | Increase Fullness                                        | x1 Reinderix Venison, x2 Tomato                                   |
-| Reindrix Venison       |        64 |     |                                                          |                                                                   |
-| Roast Eikthyrdeer      |        70 |   1 |                                                          |                                                                   |
-| Roast Reindrix         |       252 |   1 |                                                          | x1 Reindrix Venison                                               |
-| Roast Rushoar          |        60 |   1 |                                                          | x1 Rushoar Pork                                                   |
-| Rushoar Bacon 'n' Eggs |       167 |  21 | Attack +10%                                              | x2 Rushoar Pork, x2 Egg                                           |
-| Rushoar Pork           |        43 |     |                                                          |                                                                   |
-| Salad                  |        84 |  11 | Work Speed +30%                                          | x2 Lettuce, x2 Tomato                                             |
-| Stewed Galeclaw        |        92 |  12 | Decrease SAN drain                                       | x1 Galeclaw Poultry, x2 Red Berries                               |
-| Tomato                 |        15 |     |                                                          |                                                                   |
-| Wheat                  |         6 |     |                                                          |                                                                   |
-| Mozzerina Cheeseburger |       288 |  36 | Attack +20%, +Fullness                                   | x2 Mozzerina Meat, x1 Flour, x2 Tomato, x2 Milk                   |
-| Pizza                  |       184 |  23 | Workspeed +30%, +Fullness                                | x1 Flour, x2 Red Berries, x2 Tomato, x2 Milk                      |
-| Carbonara              |       129 |  16 | Defense +20%                                             | x1 Flour, x2 Egg, x2 Milk                                         |
-| Fried Chikipi          |       108 |  14 | Workspeed +30%, Reduce SAN decay                         | x1 Chikipi Poultry, x1 Flour, x1 Egg, x1 High Quality Pal Oil     |
-| Rushoar Hot dog        |       140 |  18 | Defense +20%                                             | x1 Rushoar Pork, x1 Flour, x2 Lettuce                             |
-| Eikthyrdeer Loco Moco  |       174 |  22 | Attack +20%                                              | x1 Eikthyrdeer Venison, x2 Red Berries, x2 Egg                    |
-| Eikthyrdeer Stew       |       212 |  27 | Defense +20%                                             | x2 Eikthyrdeer Venison, x1 Mushroom, x2 Milk                      |
-| Mozzerina Hamburger    |       162 |  20 | Workspeed +50%, Slightly Reduce SAN Decay                | x1 Mozzerina Meat, x1 Flour, x2 Lettuce                           |
-| Fried Kelpsea          |       108 |  14 | Defense +10%, Reduce SAN Decay                           | x1 Raw Kelpsea, x1 Flour, x1 Egg, x1 High Quality Pal Oil         |
-| Dumud Chowder          |       170 |  21 | Increase Workspeed by 50%, Stay Full for slightly longer | x1 Raw Dumud, x2 Lettuce, x2 Tomato                               |
-| Stir-fried Veggies     |        89 |   7 | Attack +10%                                              | Unknown (gifted by a villager at Fishermans Point, SE on the map) |
+| Our Favorite Foods       | Bonuses  | Recipe                                                                | Production                            |
+| ------------------------ | -------- | --------------------------------------------------------------------- | ------------------------------------- |
+| Mammorest Curry          | ATK 25%  | Mammorest Meat x1 / Onion x2 / Carrot x2 / Potato x2 / Red Berries x2 | Butcher, Plantation                   |
+| Broncherry Fried Noodles | ATK 20%  | Broncherry Meat x1 / Onion x1 / Carrot x1 / Flour x1                  | Butcher, Plantation (+Mill)           |
+| Mozzarina Cheeseburger   | ATK 20%  | Mozzarina Meat x2 / Flour x1 / Tomato x2 / Milk x2                    | Butcher, Ranching, Plantation (+Mill) |
+| Omelet                   | ATK 10%  | Tomato x1 / Egg x2                                                    | Ranching, Plantation                  |
+| Galeclaw Nikujaga        | DEF 25%  | Galeclaw Poultry x1 / Onion x2 / Carrot x2 / Potato x2                | Butcher, Plantation                   |
+| Eikthyrdeer Stew         | DEF 20%  | Eikthyrdeer Venison x2 / Mushroom x1 / Milk x2                        | Butcher, Ranching                     |
+| Hot Dog                  | DEF 20%  | Rushoar Pork x1 / Flour x1 / Lettuce x2                               | Butcher, Ranching                     |
+| Dumud Chowder            | Work 50% | Raw Dumud x1 / Lettuce x2 / Tomato x2                                 | Butcher, Plantation                   |
+| Mozzarina Hamburger      | Work 50% | Mozzarina Meat x1 / Flour x1 / Lettuce x2                             | Butcher, Plantation (+Mill)           |
+| Minestrone               | Work 40% | Tomato x3 / Carrot x2 / Onion x2 / Potato x1                          | Plantation                            |
+| Salad                    | Work 30% | Tomato x2 / Lettuce x2                                                | Plantation                            |
+| Seafood Salad            | EXP 20%  | Gloopie Tentacle x3 / Lettuce x4                                      | Butcher, Plantation                   |
+
+| Cakes            | Level | Use                         | Recipe                                                                       |
+| ---------------- | ----- | --------------------------- | ---------------------------------------------------------------------------- |
+| Special Cake     | 74    | Better Passives Inheritance | Flour x20 / Caramel Cotton Candy x8 / Milk x15 / Egg x15 / Mammorest Meat x2 |
+| Extravagant Cake | 60    | Higher Mutation Chance      | Flour x12 / Cotton Candy x8 / Potato x10 / Onion x6 / Carrot x8              |
+| Vegetable Cake   | 47    | Double Eggs                 | Flour x8 / Tomato x8 / Lettuce x7 / Egg x8 / Honey x4                        |
+| Mushroom Cake    | 30    | Higher Potential            | Flour x5 / Mushroom x5 / Cavern Mushroom x3 / Egg x8 / Honey x2              |
+| Cake             | 17    |                             | Flour x5 / Red Berries x8 / Milk x7 / Egg x8 / honey x2                      |
