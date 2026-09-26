@@ -1,14 +1,14 @@
-| Breeding  | Boosting     | Usage    |
-| --------- | ------------ | -------- |
-| Potential | Potential    |          |
-| Passives  | Passives     |          |
-|           | Actives      |          |
-|           | Condensation |          |
-|           | Souls        |          |
-|           | Trust        |          |
-|           | Suitability  |          |
-|           | Awakening    |          |
-|           |              | Leveling |
+| Breeding  | Boosting     | Usage    | Src             |
+| --------- | ------------ | -------- | --------------- |
+| Potential | Potential    |          | Buy             |
+| Passives  | Passives     |          | Varied          |
+|           | Actives      |          | Orchard         |
+|           | Condensation |          | Buy             |
+|           | Souls        |          | Breed & Butcher |
+|           | Trust        |          | Buy             |
+|           | Suitability  |          | Buy             |
+|           | Awakening    |          | Expedition      |
+|           |              | Leveling | Buy             |
 
 METHODS
 
