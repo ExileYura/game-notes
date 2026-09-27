@@ -1,4 +1,4 @@
-| Breeding  | Boosting     | Usage    | Src             | Base | Team | Exped |
+| Breeding  | Boosting     | Special  | Best Source     | Base | Team | Exped |
 | --------- | ------------ | -------- | --------------- | :--: | :--: | :---: |
 | Potential | Potential    |          | Buy             |      |  Y   |   Y   |
 | Passives  | Passives     |          | Varied          |  Y   |  Y   |       |
