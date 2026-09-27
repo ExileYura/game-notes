@@ -12,7 +12,7 @@
 
 METHODS
 
-- Breeding: https://palbreed.com/breeding-path
+- [General Breeding](https://palbreed.com/breeding-path) | [Shortest Path](https://op.gg/palworld/breeding/shortest)
 
 - Potential
 
