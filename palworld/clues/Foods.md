@@ -1,3 +1,5 @@
+# Foods
+
 | Our Favorite Foods       |  Bonuses | Recipe                                                                | Production                            |
 | ------------------------ | -------: | --------------------------------------------------------------------- | ------------------------------------- |
 | Mammorest Curry          |  ATK 25% | Mammorest Meat x1 / Onion x2 / Carrot x2 / Potato x2 / Red Berries x2 | Butcher, Plantation                   |
@@ -12,6 +14,8 @@
 | Minestrone               | Work 40% | Tomato x3 / Carrot x2 / Onion x2 / Potato x1                          | Plantation                            |
 | Salad                    | Work 30% | Tomato x2 / Lettuce x2                                                | Plantation                            |
 | Seafood Salad            |  EXP 20% | Gloopie Tentacle x3 / Lettuce x4                                      | Butcher, Plantation                   |
+
+# Cakes
 
 | Cakes            | Level | Use                         | Recipe                                                                       |
 | ---------------- | :---: | --------------------------- | ---------------------------------------------------------------------------- |
