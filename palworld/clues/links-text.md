@@ -1,6 +1,7 @@
-| Title     | Link                                |
-| --------- | ----------------------------------- |
-| Tech Tree | https://palworld.gg/technology-tree |
+| Title         | Link                                        |
+| ------------- | ------------------------------------------- |
+| Tech Tree     | https://palworld.gg/technology-tree         |
+| Suitabilities | https://thepalprofessor.com/pal-work-stats/ |
 
 | Resource Farming          | Link                                               |
 | ------------------------- | -------------------------------------------------- |
