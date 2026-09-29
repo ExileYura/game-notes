@@ -1,7 +1,8 @@
-| Title         | Link                                        |
-| ------------- | ------------------------------------------- |
-| Tech Tree     | https://palworld.gg/technology-tree         |
-| Suitabilities | https://thepalprofessor.com/pal-work-stats/ |
+| Title         | Link                                                               |
+| ------------- | ------------------------------------------------------------------ |
+| Tech Tree     | https://palworld.gg/technology-tree                                |
+| Suitabilities | https://thepalprofessor.com/pal-work-stats/                        |
+| Affinities    | https://palworld.fandom.com/wiki/Elements?file=Elemental_Chart.png |
 
 | Resource Farming          | Link                                               |
 | ------------------------- | -------------------------------------------------- |
