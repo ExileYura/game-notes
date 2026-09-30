@@ -4,8 +4,8 @@ Basics
 
 - My game (and guides) use the following mods: [>> MODS >>](beamng-rls-career/_dump/mod-install.md)
 - Some good-to-know notes: [>> NOTES >>](beamng-rls-career/_dump/good-to-know.md)
-  s
-  Job Index
+
+Job Index
 
 | Job        | Cluster   | Link                                                                | Comment |
 | ---------- | --------- | ------------------------------------------------------------------- | ------- |
