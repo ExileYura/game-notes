@@ -1,0 +1,2 @@
+- In current game version, your starting computer is at "Shuffleboard Shack" on the map.
+- If your map crashes / cannot pause the game / any similar problem presents itself, try pressing F5 first.
