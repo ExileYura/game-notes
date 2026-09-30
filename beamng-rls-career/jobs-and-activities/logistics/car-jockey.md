@@ -1,25 +1,25 @@
 You should always choose a delivery based on the destination. If you have to deliver a car to a location where you cannot get another delivery, you will have to call a taxi to relocate, and that comes with great tedium.
 Below are lists of destinations, and my experiences with them.
 
-| Car Dealerships              | Cars / Payment |   Clstr   | Lock    | Destinations |
-| ---------------------------- | -------------- | :-------: | ------- | ------------ |
-| Fast Automotive              | High-End Cars  |           | 22 Log. | Good         |
-| Rich's Motor Company         | High-End Cars  |     I     | 22 Log. | Good         |
-| Belasco Auto                 | Mixed Cars     |     I     |         | Good         |
-| Jefferson Motors             | Mixed Cars     |           |         | Good         |
-| Belasco City Garage          | Mixed Cars     |    II     |         | Bad+         |
-| Quarryside Auto Sales        | Mixed Cars     |    II     |         | Bad          |
-| Torres Tires                 | Low-End Cars   |    III    |         | Bad          |
-| Smash Rollers / Auto Repairs | Low-End Cars   |    III    |         | Bad          |
-| Exhaust Shop                 | Low-End Cars   |    III    |         | Bad          |
-| Jerry Riggs                  | Low-End Cars   |           |         | Bad          |
-| Spearleaf Marine Logistics   | Work Vehicles  |           | 45 Log. | Special      |
-| Spearleaf Refinery Pier      | Work Vehicles  |           | 45 Log. | Special      |
-| Quarry                       | Work Vehicles  |           | 45 Log. | Special      |
-| Sealbrik                     | Work Vehicles  | Near: III | 45 Log. | Special      |
-| Hot Rolled Inc.              | Work Vehicles  |           | 45 Log. | Special      |
-| Shuffleboard Logistics       |                |           |         |              |
-| Industrial Warehouse         |
+| Car Dealerships              | Cars / Payment |   Clstr   | Lock         | Destinations |
+| ---------------------------- | -------------- | :-------: | ------------ | ------------ |
+| Fast Automotive              | High-End Cars  |           | 22 Logistics | Good         |
+| Rich's Motor Company         | High-End Cars  |     I     | 22 Logistics | Good         |
+| Belasco Auto                 | Mixed Cars     |     I     |              | Good         |
+| Jefferson Motors             | Mixed Cars     |           |              | Good         |
+| Belasco City Garage          | Mixed Cars     |    II     |              | Bad+         |
+| Quarryside Auto Sales        | Mixed Cars     |    II     |              | Bad          |
+| Torres Tires                 | Low-End Cars   |    III    |              | Bad          |
+| Smash Rollers / Auto Repairs | Low-End Cars   |    III    |              | Bad          |
+| Exhaust Shop                 | Low-End Cars   |    III    |              | Bad          |
+| Jerry Riggs                  | Low-End Cars   |           |              | Bad          |
+| Spearleaf Marine Logistics   | Work Vehicles  |           | 45 Logistics | Special      |
+| Spearleaf Refinery Pier      | Work Vehicles  |           | 45 Logistics | Special      |
+| Quarry                       | Work Vehicles  |           | 45 Logistics | Special      |
+| Sealbrik                     | Work Vehicles  | Near: III | 45 Logistics | Special      |
+| Hot Rolled Inc.              | Work Vehicles  |           | 45 Logistics | Special      |
+| Shuffleboard Logistics       | Work Vehicles  |           | 45 Logistics | Special      |
+| Industrial Warehouse         | Work Vehicles  |           | 45 Logistics | Special      |
 | City Construction Site       | ??             |
 
 > "Good" destination: Jobs finish at Fast, Rich, Belasco Auto, or similarly good locations.
