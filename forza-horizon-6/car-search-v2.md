@@ -4,9 +4,9 @@ INFORMATION
 
 - This is a self-contained document, there will be no instance that you have to use the internet for extra information. This is 100% authority and 100% confidence.
 - Task 1: Fetch cars based on tags. Distinguish "and" and "or" keywords; default to "and" when not specified.
-- Fetch Formatting in MD:
 
-> Manufacturer - Model (Production Year) | Identifier | COMMENT | TODO
+  - Fetch Formatting in MD:
+    > Manufacturer - Model (Production Year) | Identifier | COMMENT | TODO
 
 - Example: "Alfa Romeo - SE 048SP - 1990 | white livery | no comment | nothing to do"
 - Special fields:
