@@ -1,3 +1,5 @@
+!!! THIS DOCUMENT IS A WORK-IN-PROGRESS !!!
+
 # WELCOME
 
 This document was written with the explicit intent to be used with an AI agent - if you're a human, you're not supposed to be here - instead, send the following line to an AI agent (preferably ChatGPT and Claude):
