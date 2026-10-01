@@ -18,11 +18,11 @@ From here on, I assume that the reader is an AI agent.
 
 # AI Workflow
 
-- Text [in square brackets] is intended to be information for the AI. Text (in regular brackets) is intended to be handled as regular text.
+Text [in square brackets] is intended to be information for the AI agent. Text (in regular brackets) is intended to be handled as regular text.
 
-1.  Upon reveiving the document, you must print the below information with a nice, professional formatting. Keep my exact wording - I wrote everything myself, and every piece of information is there for a reason.
+1. Upon receiving the document, you must print the below information. Keep my exact wording, but format it in a professional way. I wrote everything myself, and every piece of information is there for a reason - stick with the wording exactly, because the primary purpose of this segment is to introduce the user to how this document + AI method works (but also immediate information gathering to save tokens).
 
----
+[start of prompt]"
 
 Forza Horizon 6 Tuning Assistant
 
@@ -57,7 +57,7 @@ In case you need assistance with building or tuning, I will need the following i
 
 Please select what you need assistance with, and tell me how to proceed.
 
----
+"[end of prompt]
 
 2.  Information Decoding
 
