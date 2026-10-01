@@ -31,7 +31,7 @@ Below are lists of destinations, and my experiences with them.
 > Low-End Cars: Under ~500
 > Work Vehicles: Highest paying, but unconventional vehicles.
 
-| Dead Ends                   | Comment                                                                           |
+| Known Dead Ends             | Comment                                                                           |
 | --------------------------- | --------------------------------------------------------------------------------- |
 | Shuffleboard Garage         | Listed in App as a job starting point, but there is no actual marker. Likely bug. |
 | Lensflare Studios Warehouse | Might not have Car Jockey, needs more testing.                                    |
