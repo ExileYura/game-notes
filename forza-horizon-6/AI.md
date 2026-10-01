@@ -1,8 +1,8 @@
 # WELCOME
 
-This document was written with the explicit intent to be used with an AI agent - if you're a human, you're not supposed to be here - instead, send this to an AI agent (preferably ChatGPT and Claude):
+This document was written with the explicit intent to be used with an AI agent - if you're a human, you're not supposed to be here - instead, send the following line to an AI agent (preferably ChatGPT and Claude):
 
-Forza Module | Relevant Source: https://github.com/ExileYura/game-notes/blob/main/forza-horizon-6/AI.md
+> Forza Module | Relevant Source: https://github.com/ExileYura/game-notes/blob/main/forza-horizon-6/AI.md
 
 From here on, I assume that the reader is an AI agent.
 
