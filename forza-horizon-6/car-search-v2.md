@@ -25,7 +25,7 @@ INFORMATION
     - Ingame Type?
   - If user skipped something critical, print: "Noted, I just need the following information to proceed: [ Information that was formerly skipped ]"
   - The COUNTRY tag was intentionally skipped from the questioning phase, because you can deduct that from the manufacturer.
-  - You must then compile all received information, and format it like every other list entry.
+  - You must then compile all received information, and format it like every other list entry. !!! Every possible tag variation is listed at the bottom of the document - do NOT invent new tags !!!
   - Important formatting rules (that you tend to ignore):
     - Comments, TODOs, and Identifiers are in "double quotation marks", every other tag is in `backticks`.
     - The Manufacturer name belongs in the header. You do NOT need to add it to your output.
@@ -36,32 +36,30 @@ INFORMATION
 
 CAR LIST
 
----
-
 Letter A
 
-| Abarth       | Year   | Country | Comment | Todo | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Times | Special |
-| ------------ | ------ | ------- | ------- | ---- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ----- | ------- |
-| 595 ESSEESSE | `1968` | `italy` |         |      | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |       |
+| Abarth       | Year   | Country | Comment | Todo | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type   | Traction Control | Track    | Principle  | In-game Type | Times | Special |
+| ------------ | ------ | ------- | ------- | ---- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ------------ | ---------------- | -------- | ---------- | ------------ | ----- | ------- |
+| 595 ESSEESSE | `1968` | `italy` |         |      | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free_build` | `trc-off`        | `general | `meme-car` | `cult-cars`  |       |
 
-| Alfa Romeo                  | Year   | Country | Comment                                  | Todo | Identifier                       | Rating         | Tuner        | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle             | In-game Type           | Times                       | Special |
-| --------------------------- | ------ | ------- | ---------------------------------------- | ---- | -------------------------------- | -------------- | ------------ | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | --------------------- | ---------------------- | --------------------------- | ------- |
-| Giulia GTAM                 | `2021` | `italy` |                                          |      | "Red and white livery."          | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free`     | `off`            | `general` | `touge_drift`         | `modern-super-saloons` |                             |         |
-| 4C                          | `2014` | `italy` | "Needs a facelift — abysmal understeer." |      | "White and yellow livery."       | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway`  | `modern-sports-cars`   |                             |         |
-| 4C                          | `2014` | `italy` | "Spare your tires."                      |      | "White with purple flag livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`     | `RWD`        | `free`     | `off`            | `general` | `drag`                | `modern-sports-cars`   | DS: 13.976 - 12.071 - 7.899 |         |
-| 048SP                       | `1990` | `italy` |                                          |      | "White livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`  | `AWD`        | `free`     | `off`            | `general` | `road_technical`      | `retro-racers`         |                             |         |
-| 048SP                       | `1990` | `italy` |                                          |      | "Black livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `road_technical`      | `retro-racers`         |                             |         |
-| Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` |                                          |      | "Black livery, gold rim."        | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` | `classic-racers`       |                             |         |
+| Alfa Romeo                  | Year   | Country | Comment                                  | Todo | Identifier                       | Rating         | Tuner        | Designer        | Class    | Driveterrain | Build Type   | Traction Control | Track     | Principle             | In-game Type           | Times                       | Special |
+| --------------------------- | ------ | ------- | ---------------------------------------- | ---- | -------------------------------- | -------------- | ------------ | --------------- | -------- | ------------ | ------------ | ---------------- | --------- | --------------------- | ---------------------- | --------------------------- | ------- |
+| Giulia GTAM                 | `2021` | `italy` |                                          |      | "Red and white livery."          | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free_build` | `trc-off`        | `general` | `touge_drift`         | `modern-super-saloons` |                             |         |
+| 4C                          | `2014` | `italy` | "Needs a facelift — abysmal understeer." |      | "White and yellow livery."       | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free_build` | `trc-off`        | `general` | `road_speed-highway`  | `modern-sports-cars`   |                             |         |
+| 4C                          | `2014` | `italy` | "Spare your tires."                      |      | "White with purple flag livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`     | `RWD`        | `free_build` | `trc-off`        | `general` | `drag`                | `modern-sports-cars`   | DS: 13.976 - 12.071 - 7.899 |         |
+| 048SP                       | `1990` | `italy` |                                          |      | "White livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`  | `AWD`        | `free_build` | `trc-off`        | `general` | `road_technical`      | `retro-racers`         |                             |         |
+| 048SP                       | `1990` | `italy` |                                          |      | "Black livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD`        | `free_build` | `trc-off`        | `general` | `road_technical`      | `retro-racers`         |                             |         |
+| Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` |                                          |      | "Black livery, gold rim."        | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free_build` | `trc-off`        | `general` | `rally_mixed-surface` | `classic-racers`       |                             |         |
 
-| Audi                              | Year   | Country   | Comment                                                                                        | Todo | Identifier                     | Rating         | Tuner        | Designer                  | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type           | Times | Special |
-| --------------------------------- | ------ | --------- | ---------------------------------------------------------------------------------------------- | ---- | ------------------------------ | -------------- | ------------ | ------------------------- | -------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | ---------------------- | ----- | ------- |
-| R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` | "Understeers badly — can't fix via tuning alone. Try converting to RWD or dropping to PI 800." |      | "Pure white livery."           | `rate_pending` | `tuner_yura` | `designer_yura`           | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway`                                             | `modern-supercars`     |       |
-| RS 4                              | `2006` | `germany` | "Needs some fine-tuning — not urgent."                                                         |      | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `snow_purpose-built`                                             | `modern-super-saloons` |       |
-| RS 4 Avant                        | `2001` | `germany` |                                                                                                |      | "Simple green paint."          | `rate_pending` | `tuner_yura` | `designer_yura`           | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `cross-country_competent` `snow_competent` | `modern-super-saloons` |       |
+| Audi                              | Year   | Country   | Comment                                                                                        | Todo | Identifier                     | Rating         | Tuner        | Designer                  | Class    | Driveterrain | Build Type   | Traction Control | Track     | Principle                                                        | In-game Type           | Times | Special |
+| --------------------------------- | ------ | --------- | ---------------------------------------------------------------------------------------------- | ---- | ------------------------------ | -------------- | ------------ | ------------------------- | -------- | ------------ | ------------ | ---------------- | --------- | ---------------------------------------------------------------- | ---------------------- | ----- | ------- |
+| R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` | "Understeers badly — can't fix via tuning alone. Try converting to RWD or dropping to PI 800." |      | "Pure white livery."           | `rate_pending` | `tuner_yura` | `designer_yura`           | `S2-900` | `AWD`        | `free_build` | `trc-off`        | `general` | `road_speed-highway`                                             | `modern-supercars`     |       |
+| RS 4                              | `2006` | `germany` | "Needs some fine-tuning — not urgent."                                                         |      | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700`  | `AWD`        | `free_build` | `trc-off`        | `general` | `snow_purpose-built`                                             | `modern-super-saloons` |       |
+| RS 4 Avant                        | `2001` | `germany` |                                                                                                |      | "Simple green paint."          | `rate_pending` | `tuner_yura` | `designer_yura`           | `A-700`  | `AWD`        | `free_build` | `trc-off`        | `general` | `rally_mixed-surface` `cross-country_competent` `snow_competent` | `modern-super-saloons` |       |
 
-| Car          | Year | Country | Comment | Todo | Identifier          | Rating         | Tuner        | Designer        | Class   | Drive | Build Type | Traction Control | Track     | Principle    | Ingame Type          | Times | Special |
-| ------------ | ---: | ------- | ------- | ---- | ------------------- | -------------- | ------------ | --------------- | ------- | ----- | ---------- | ---------------- | --------- | ------------ | -------------------- | ----- | ------- |
-| Autozam AZ-1 | 1993 | `japan` |         |      | "Sexy Cream color." | `rate_pending` | `tuner_yura` | `designer_yura` | `A-700` | `AWD` | `free`     | `off`            | `general` | `touge_grip` | `eclectic-domestics` |       |         |
+| Car          | Year | Country | Comment | Todo | Identifier          | Rating         | Tuner        | Designer        | Class   | Drive | Build Type   | Traction Control | Track     | Principle    | Ingame Type          | Times | Special |
+| ------------ | ---: | ------- | ------- | ---- | ------------------- | -------------- | ------------ | --------------- | ------- | ----- | ------------ | ---------------- | --------- | ------------ | -------------------- | ----- | ------- |
+| Autozam AZ-1 | 1993 | `japan` |         |      | "Sexy Cream color." | `rate_pending` | `tuner_yura` | `designer_yura` | `A-700` | `AWD` | `free_build` | `trc-off`        | `general` | `touge_grip` | `eclectic-domestics` |       |         |
 
 ---
 
@@ -71,17 +69,17 @@ Letter B
 
 Letter C
 
-| Chevrolet | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type   | Times                       | Special |
-| --------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | -------------- | --------------------------- | ------- |
-| Bel Air   | `1957` | `usa`   |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `rods-customs` | DS: 14.256 - 12.340 - 7.933 |         |
+| Chevrolet | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type   | Times                       | Special |
+| --------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | -------------- | --------------------------- | ------- |
+| Bel Air   | `1957` | `usa`   |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `rods-customs` | DS: 14.256 - 12.340 - 7.933 |         |
 
 ---
 
 Letter D
 
-| Dodge            | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type | Times                       | Special |
-| ---------------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | ------------ | --------------------------- | ------- |
-| Viper SRT-10 ACR | `2008` | `usa`   |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `RWD`        | `free`     | `off`            | `general` | `drag`    | `track-toys` | DS: 14.249 - 12.330 - 8.088 |         |
+| Dodge            | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type | Times                       | Special |
+| ---------------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | ------------ | --------------------------- | ------- |
+| Viper SRT-10 ACR | `2008` | `usa`   |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `RWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `track-toys` | DS: 14.249 - 12.330 - 8.088 |         |
 
 ---
 
@@ -91,26 +89,26 @@ Letter E
 
 Letter F
 
-| Ford                       | Year   | Country | Comment        | Todo | Identifier  | Rating         | Tuner                  | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type     | Times                       | Special |
-| -------------------------- | ------ | ------- | -------------- | ---- | ----------- | -------------- | ---------------------- | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ---------------- | --------------------------- | ------- |
-| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Make livery." |      | "Pending."  | `rate_pending` | `tuner_ChromeProto517` |                 | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars`     |                             |         |
-| Mustang GT Coupe           | `1965` | `usa`   |                |      | "Drag Flag" | `rate_pending` | `tuner_yura`           | `designer_yura` | `NA`     | `AWD`        | `free`     | `off`            | `general` | `drag`                     | `classic-muscle` | DS: 14.322 - 12.502 - 7.864 |         |
+| Ford                       | Year   | Country | Comment        | Todo | Identifier  | Rating         | Tuner                  | Designer        | Class    | Driveterrain | Build Type   | Traction Control | Track     | Principle                  | In-game Type     | Times                       | Special |
+| -------------------------- | ------ | ------- | -------------- | ---- | ----------- | -------------- | ---------------------- | --------------- | -------- | ------------ | ------------ | ---------------- | --------- | -------------------------- | ---------------- | --------------------------- | ------- |
+| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Make livery." |      | "Pending."  | `rate_pending` | `tuner_ChromeProto517` |                 | `S2-900` | `AWD`        | `free_build` | `trc-off`        | `general` | `drift_point-drifting-awd` | `drift-cars`     |                             |         |
+| Mustang GT Coupe           | `1965` | `usa`   |                |      | "Drag Flag" | `rate_pending` | `tuner_yura`           | `designer_yura` | `NA`     | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`                     | `classic-muscle` | DS: 14.322 - 12.502 - 7.864 |         |
 
 ---
 
 Letter G
 
-| Ginetta    | Year   | Country   | Comment                                                                                                                                                             | Todo | Identifier                 | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Times | Special |
-| ---------- | ------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ----- | ------- |
-| G40 Junior | `2019` | `england` | "Cornering cannot be further optimized within present constraints. Aggressive steering response and limited turning angle makes the car feel uniquely challenging." |      | "Green and Yellow livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `track-toys` |       |
+| Ginetta    | Year   | Country   | Comment                                                                                                                                                             | Todo | Identifier                 | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type   | Traction Control | Track     | Principle        | In-game Type | Times | Special |
+| ---------- | ------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ------------ | ---------------- | --------- | ---------------- | ------------ | ----- | ------- |
+| G40 Junior | `2019` | `england` | "Cornering cannot be further optimized within present constraints. Aggressive steering response and limited turning angle makes the car feel uniquely challenging." |      | "Green and Yellow livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free_build` | `trc-off`        | `general` | `road_technical` | `track-toys` |       |
 
 ---
 
 Letter H
 
-| Honda | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type         | Times                       | Special |
-| ----- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | -------------------- | --------------------------- | ------- |
-| N600  | `1970` | `japan` |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `eclectic-domestics` | DS: 14.586 - 12.357 - 7.650 |         |
+| Honda | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type         | Times                       | Special |
+| ----- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | -------------------- | --------------------------- | ------- |
+| N600  | `1970` | `japan` |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `eclectic-domestics` | DS: 14.586 - 12.357 - 7.650 |         |
 
 ---
 
@@ -120,12 +118,12 @@ Letter I
 
 Letter J
 
-| Jaguar  | Year   | Country   | Comment | Todo | Identifier                         | Rating         | Tuner        | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Times                       | Special |
-| ------- | ------ | --------- | ------- | ---- | ---------------------------------- | -------------- | ------------ | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | --------------------------- | ------- |
-| XJ-S FE | `1990` | `england` |         |      | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |                             |         |
-| XJ-S FE | `1990` | `england` |         |      | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |                             |         |
-| XJ-S FE | `1990` | `england` |         |      | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`  | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |                             |         |
-| XJ-S FE | `1990` | `england` |         |      | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`     | `AWD`        | `free`     | `off`            | `general` | `drag`                     | `drift-cars` | DS: 13.059 - 11.151 - 7.379 |         |
+| Jaguar  | Year   | Country   | Comment | Todo | Identifier                         | Rating         | Tuner        | Designer        | Class    | Driveterrain | Build Type   | Traction Control | Track     | Principle                  | In-game Type | Times                       | Special |
+| ------- | ------ | --------- | ------- | ---- | ---------------------------------- | -------------- | ------------ | --------------- | -------- | ------------ | ------------ | ---------------- | --------- | -------------------------- | ------------ | --------------------------- | ------- |
+| XJ-S FE | `1990` | `england` |         |      | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `RWD`        | `free_build` | `trc-off`        | `general` | `drift_appropriate-rwd`    | `drift-cars` |                             |         |
+| XJ-S FE | `1990` | `england` |         |      | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `RWD`        | `free_build` | `trc-off`        | `general` | `drift_appropriate-rwd`    | `drift-cars` |                             |         |
+| XJ-S FE | `1990` | `england` |         |      | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drift_point-drifting-awd` | `drift-cars` |                             |         |
+| XJ-S FE | `1990` | `england` |         |      | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`     | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`                     | `drift-cars` | DS: 13.059 - 11.151 - 7.379 |         |
 
 ---
 
@@ -135,31 +133,31 @@ Letter K
 
 Letter L
 
-| Lamborghini   | Year   | Country | Comment | Todo | Identifier           | Rating         | Tuner               | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Times | Special |
-| ------------- | ------ | ------- | ------- | ---- | -------------------- | -------------- | ------------------- | --------------- | ------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ----- | ------- |
-| Aventador SVJ | `2018` | `italy` |         |      | "Golden Boy livery." | `rate_pending` | `tuner_IOnceWasYou` | `designer_yura` | `R-998` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `hypercars`  |       |
+| Lamborghini   | Year   | Country | Comment | Todo | Identifier           | Rating         | Tuner               | Designer        | Class   | Driveterrain | Build Type   | Traction Control | Track     | Principle                  | In-game Type | Times | Special |
+| ------------- | ------ | ------- | ------- | ---- | -------------------- | -------------- | ------------------- | --------------- | ------- | ------------ | ------------ | ---------------- | --------- | -------------------------- | ------------ | ----- | ------- |
+| Aventador SVJ | `2018` | `italy` |         |      | "Golden Boy livery." | `rate_pending` | `tuner_IOnceWasYou` | `designer_yura` | `R-998` | `AWD`        | `free_build` | `trc-off`        | `general` | `drift_point-drifting-awd` | `hypercars`  |       |
 
 ---
 
 Letter M
 
-| Mazda       | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type        | Times                       | Special |
-| ----------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | ------------------- | --------------------------- | ------- |
-| RX-7 Type R | `1992` | `japan` |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `retro-sports-cars` | DS: 13.680 - 11.626 - 7.481 |
+| Mazda       | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type        | Times                       | Special |
+| ----------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | ------------------- | --------------------------- | ------- |
+| RX-7 Type R | `1992` | `japan` |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `retro-sports-cars` | DS: 13.680 - 11.626 - 7.481 |
 
-| McLaren | Year   | Country   | Comment | Todo | Identifier             | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Times | Special |
-| ------- | ------ | --------- | ------- | ---- | ---------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ----- | ------- |
-| W1      | `2025` | `england` |         |      | "Two-tone blue paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `hypercars`  |       |
+| McLaren | Year   | Country   | Comment | Todo | Identifier             | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type   | Traction Control | Track     | Principle        | In-game Type | Times | Special |
+| ------- | ------ | --------- | ------- | ---- | ---------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ------------ | ---------------- | --------- | ---------------- | ------------ | ----- | ------- |
+| W1      | `2025` | `england` |         |      | "Two-tone blue paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD`        | `free_build` | `trc-off`        | `general` | `road_technical` | `hypercars`  |       |
 
-| Mercedes-Benz          | Year   | Country   | Comment | Todo                                                  | Identifier                            | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type     | Times                       | Special |
-| ---------------------- | ------ | --------- | ------- | ----------------------------------------------------- | ------------------------------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | ---------------- | --------------------------- | ------- |
-| 300 SL Coupé           | `1954` | `germany` |         | "Poor time, remake in AWD, or a different principle." | "Drag Flag."                          | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `RWD`        | `free`     | `off`            | `general` | `drag`    | `rare-classics`  | DS: 16.093 - 13.966 - 9.092 |         |
-| 300 SLR                | `1955` | `germany` |         | "Remake livery."                                      | "White and Blue."                     | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `classic-racers` | DS: 13.785 - 11.869 - 7.722 |
-| SL 65 AMG Black Series | `2009` | `germany` |         |                                                       | "Light gray body, dark gray accents." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `super-gt`       | DS: 14.429 - 12.449 - 7.938 |         |
+| Mercedes-Benz          | Year   | Country   | Comment | Todo                                                  | Identifier                            | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type     | Times                       | Special |
+| ---------------------- | ------ | --------- | ------- | ----------------------------------------------------- | ------------------------------------- | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | ---------------- | --------------------------- | ------- |
+| 300 SL Coupé           | `1954` | `germany` |         | "Poor time, remake in AWD, or a different principle." | "Drag Flag."                          | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `RWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `rare-classics`  | DS: 16.093 - 13.966 - 9.092 |         |
+| 300 SLR                | `1955` | `germany` |         | "Remake livery."                                      | "White and Blue."                     | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `classic-racers` | DS: 13.785 - 11.869 - 7.722 |
+| SL 65 AMG Black Series | `2009` | `germany` |         |                                                       | "Light gray body, dark gray accents." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `super-gt`       | DS: 14.429 - 12.449 - 7.938 |         |
 
-| Mitsubishi               | Year   | Country | Comment | Todo | Identifier                       | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type   | Times | Special                                |
-| ------------------------ | ------ | ------- | ------- | ---- | -------------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | -------------- | ----- | -------------------------------------- |
-| Lancer Evolution VIII MR | `2004` | `japan` |         |      | "Need For Speed #9 Earl Livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `snow_competent` `cross-country_competent` | `modern-rally` |       | `collection-livery_most-wanted_9-earl` |
+| Mitsubishi               | Year   | Country | Comment | Todo | Identifier                       | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type   | Traction Control | Track     | Principle                                                        | In-game Type   | Times | Special                                |
+| ------------------------ | ------ | ------- | ------- | ---- | -------------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ------------ | ---------------- | --------- | ---------------------------------------------------------------- | -------------- | ----- | -------------------------------------- |
+| Lancer Evolution VIII MR | `2004` | `japan` |         |      | "Need For Speed #9 Earl Livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free_build` | `trc-off`        | `general` | `rally_mixed-surface` `snow_competent` `cross-country_competent` | `modern-rally` |       | `collection-livery_most-wanted_9-earl` |
 
 ---
 
@@ -173,9 +171,9 @@ Letter O
 
 Letter P
 
-| Porsche     | Year   | Country   | Comment | Todo | Identifier                   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type        | Times                       | Special |
-| ----------- | ------ | --------- | ------- | ---- | ---------------------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | ------------------- | --------------------------- | ------- |
-| 911 Turbo S | `2023` | `germany` |         |      | "Drag Flag, Red and Yellow." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `modern-super-cars` | DS: 13.374 - 11.594 - 7.325 |
+| Porsche     | Year   | Country   | Comment | Todo | Identifier                   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type        | Times                       | Special |
+| ----------- | ------ | --------- | ------- | ---- | ---------------------------- | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | ------------------- | --------------------------- | ------- |
+| 911 Turbo S | `2023` | `germany` |         |      | "Drag Flag, Red and Yellow." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `modern-super-cars` | DS: 13.374 - 11.594 - 7.325 |
 
 ---
 
@@ -189,17 +187,17 @@ Letter R
 
 Letter S
 
-| Shelby                     | Year   | Country | Comment | Todo | Identifier        | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type     | Times                       | Special |
-| -------------------------- | ------ | ------- | ------- | ---- | ----------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | ---------------- | --------------------------- | ------- |
-| Shelby Cobra Daytona Coupe | `1965` | `usa`   |         |      | "Drag Flag, Red." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `classic-racers` | DS: 14.839 - 12.920 - 8.206 |
+| Shelby                     | Year   | Country | Comment | Todo | Identifier        | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type     | Times                       | Special |
+| -------------------------- | ------ | ------- | ------- | ---- | ----------------- | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | ---------------- | --------------------------- | ------- |
+| Shelby Cobra Daytona Coupe | `1965` | `usa`   |         |      | "Drag Flag, Red." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `classic-racers` | DS: 14.839 - 12.920 - 8.206 |
 
 ---
 
 Letter T
 
-| Toyota                  | Year   | Country | Comment | Todo | Identifier     | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle | In-game Type          | Times                       | Special |
-| ----------------------- | ------ | ------- | ------- | ---- | -------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | --------- | --------------------- | --------------------------- | ------- |
-| Crown Super Deluxe Taxi | `2005` | `japan` |         |      | "Taxi livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag`    | `retro-super-saloons` | DS: 15.513 - 13.190 - 8.550 |
+| Toyota                  | Year   | Country | Comment | Todo | Identifier     | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type   | Traction Control | Track     | Principle | In-game Type          | Times                       | Special |
+| ----------------------- | ------ | ------- | ------- | ---- | -------------- | -------------- | ------------ | --------------- | ----- | ------------ | ------------ | ---------------- | --------- | --------- | --------------------- | --------------------------- | ------- |
+| Crown Super Deluxe Taxi | `2005` | `japan` |         |      | "Taxi livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free_build` | `trc-off`        | `general` | `drag`    | `retro-super-saloons` | DS: 15.513 - 13.190 - 8.550 |
 
 ---
 
@@ -227,9 +225,9 @@ Letter Z
 
 ---
 
-Below are tag variations, with some explanation:
+TAGS VARIATIONS
 
-GENERAL TAGS:
+General Tags:
 
 - IDENTIFIER: "This refers to the in-game livery I use on the car, so it's easy to pick out which one we're talking about in case I have multiple of the same model."
 - COMMENT: "Always double quotation marks."
@@ -243,40 +241,13 @@ GENERAL TAGS:
   - `rate_pending`: Testing needed.
 - Tuner: `tuner_yura` `tuner_name` `tuner_community-made`
 - Designer: `designer_yura` `designer_name` `designer_community-made`
-- Class: `X` `R-998` `S2-900` `S1-800` `A-700` `B-600` `C-500` `D-400` `NA` (NA - not built for competition)
+- Class: `X` `R-998` `S2-900` `S1-800` `A-700` `B-600` `C-500` `D-400` `NA` (NA means not built for competition)
 - Driveterrain: `AWD` `RWD` `FWD`
-- Build Type: `free` `purist_strict` `purist_general` `purist_lite`
-- Traction Control: `mandatory` `preferred` `off`
+- Build Type: `free_build` `purist_strict` `purist_general` `purist_lite`
+- Traction Control: `trc-mandatory` `trc-preferred` `trc-off`
 - Track: `general` OR the name of the track, if the car was purpose-built for a specific track.
 
-Build Type Tags, exact rules:
-
-- Free Build: Completely unrestricted
-- Purist General:
-  - No engine swap.
-  - Appearance:
-    - No Bodykits or Aero (outside of stock) -- essentially minimizing changes in how the car looks.
-    - Stock Rims.
-    - Use factory colors (mixing them up yourself is fine -- you don't have to use forza's factory color presets if you can do better), or historically significant colors / liveries.
-  - No drivetrain swap.
-  - Preserve the car's role (ex. don't turn a Le Mans car into an offroad).
-  - Purist Strict:
-    - Everything in General Purist applies.
-    - Only tune to the top of the original PI class.
-    - Springs / Differential upgrades should be in-role. (Race for cars on asphalt, Rally / Offroad for rally / offroad cars, Drift for drift cars.)
-    - No roll cage -- this alters the look of the car too.
-    - No engine upgrades that alter the sound of the car (Exhaust, Turbo, Intake, maybe more...).
-    - Tire compound changes are allowed, because you will not be able to upgrade many things to reach the top of the PI class, but stay within reasonable bounds (ex. don't put offroad compound on a race car to crunch PI).
-      - I allow rally compound for road builds because they are widely used anyway.
-    - Tire Width is allowed, but Rim Size and Engine Spacers are not.
-  - Purist Lite:
-    - The idea behind this category is that modifications can be made on cars, but they must be historically accurate. If a car has a name in real-life tuner culture (ex. Rx 7), then you can tune it like they do in real-life.
-    - Engine swap is allowed, but only with engines that come from the same manufacturer (ex. you can swap a different porsche engine into a porsche -- you cannot swap in a lamborghini or audi engine though).
-    - Any appearance modification is allowed, but try to aim for something historical / real-life recreation.
-    - Only historical drivetrain swap.
-    - Preserve the car's role.
-
-PRINCIPLE TAGS: [Formatted with `these` marks.]
+Principle Tags: [All of these are supposed to be formatted in back-ticks too.]
 
 - drift_appropriate-rwd
 - drift_point-drifting-awd
@@ -303,7 +274,7 @@ PRINCIPLE TAGS: [Formatted with `these` marks.]
 
 - meme-car (Doesn't have to have any 'purpose' -- it's usually kept because it has a funny livery or functionality.)
 
-INGAME_TYPE TAGS: [Formatted with `these` marks.]
+Ingame-type Tags: [All of these are supposed to be formatted in back-ticks too.]
 
 - buggies
 - classic-muscle
@@ -343,17 +314,46 @@ INGAME_TYPE TAGS: [Formatted with `these` marks.]
 - utvs
 - utility-heroes
 
-TIMES TAGS: Non-standard tags that I add manually, you can omit them. Here's how the short tags work:
+Non-standard Tags:
 
-- DS stands for Drag Strips. The following three numbers are the car's best times on kilometer strip - half mile strip - quarter mile strip.
-
-SPECIAL TAGS: Non-standard tags that I will add manually, you can omit them. Here's when I use them:
-
-- If a car is part of a collection. (Only so far.)
+- These are tags that you (the AI agent) will never add during tagging; this is something that I (user) add manually when necessary. I am still listing them here for clarity (and so you can sort by them more accurately):
+- Times Tags:
+  - DS stands for Drag Strips. The following three numbers are the car's best times on kilometer strip - half mile strip - quarter mile strip.
+- Special Tags:
+  - Added if a car is part of a collection. Collections do not abide by any rules, they are always special and unique.
 
 ---
 
-Special TODO: [Things that I want to do but I didn't have the time to organize them.]
+Below are the exact rules of build-types that you will only have to print on request:
+
+- Free Build: Completely unrestricted
+- Purist General:
+  - No engine swap.
+  - Appearance:
+    - No Bodykits or Aero (outside of stock) -- essentially minimizing changes in how the car looks.
+    - Stock Rims.
+    - Use factory colors (mixing them up yourself is fine -- you don't have to use forza's factory color presets if you can do better), or historically significant colors / liveries.
+  - No drivetrain swap.
+  - Preserve the car's role (ex. don't turn a Le Mans car into an offroad).
+- Purist Strict:
+  - Everything in General Purist applies.
+  - Only tune to the top of the original PI class.
+  - Springs / Differential upgrades should be in-role. (Race for cars on asphalt, Rally / Offroad for rally / offroad cars, Drift for drift cars.)
+  - No roll cage -- this alters the look of the car too.
+  - No engine upgrades that alter the sound of the car (Exhaust, Turbo, Intake, maybe more...).
+  - Tire compound changes are allowed, because you will not be able to upgrade many things to reach the top of the PI class, but stay within reasonable bounds (ex. don't put offroad compound on a race car to crunch PI).
+    - I allow rally compound for road builds because they are widely used anyway.
+  - Tire Width is allowed, but Rim Size and Engine Spacers are not.
+- Purist Lite:
+  - The idea behind this category is that modifications can be made on cars, but they must be historically accurate. If a car has a name in real-life tuner culture (ex. Rx 7), then you can tune it like they do in real-life.
+  - Engine swap is allowed, but only with engines that come from the same manufacturer (ex. you can swap a different porsche engine into a porsche -- you cannot swap in a lamborghini or audi engine though).
+  - Any appearance modification is allowed, but try to aim for something historical / real-life recreation.
+  - Only historical drivetrain swap.
+  - Preserve the car's role.
+
+---
+
+Special TODO: [Dump for ideas that I had no time or intention to organize. Print upon request.]
 
 - Service Vehicles list, for building police, fire fighter, taxi, and similar vehicles: 2010 Ford Crown Victoria Police Interceptor (police) -- 1996 Chevrolet Impala Super Sport (police) -- 2014 Mercedes-Benz Unimog U5023 (fire/rescue) -- 2015 Audi RS 6 Avant (police/emergency response) -- 2017 Chevrolet Camaro ZL1 (police/highway patrol) -- 2008 Mitsubishi Lancer Evolution X GSR (police/highway patrol) -- 2014 Volkswagen Golf R (police/emergency response) -- 2014 Alfa Romeo 4C (police/response) -- 2016 BMW M4 GTS (police/traffic enforcement) -- 2020 Mercedes-AMG GT Black Series (rapid-response police) -- 2005 Toyota Crown Super Deluxe Taxi (taxi) -- 2017 Toyota JPN Taxi (taxi) -- 1994 Honda Acty (delivery/utility/municipal) -- Honda Acty 'RakuRaku Express' (delivery) -- 1991 Toyota Chaser GT Twin Turbo (taxi/job configuration)
 - Car Collections I want to start / finish: Need for Speed collection | Cars (the movie) collection | Hippie collection
