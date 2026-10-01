@@ -1,16 +1,17 @@
-This is a compiled list of all my cars in Forza Horizon 6. I cannot add custom tags in-game, so instead I add my cars here, and tag them in the document. You are most likely an AI agent -- your job will be to fetch cars based on associated tags.
+This is a compiled list of all my cars in Forza Horizon 6. I cannot add custom tags in-game, so instead I list and tag my cars here. I use AI agents to sort it by tags.
 
-- Treat this MD file as only source, it has everything you will need to work, it should have 100% authority, and 100% of your confidence.
-- When I give you a tag, you fetch every car that has the tag.
-  - If I give you multiple tags, you fetch cars that have all the tags ('and' method).
-  - I will explicitely tell you to use an 'or' method if I want cars that contain either tags that I listed, instead of all of them.
-- Fetch Formatting:
-  - When you print cars that you find, this is the correct format:
-  - "Manufacturer - Model - Production Year | Identifier | COMMENT | TODO"
-  - Example: "Alfa Romeo - SE 048SP - 1990 | white livery | no comment | nothing to do"
-  - Special fields:
-    - COMMENT: When no comment is available, default to "no comment".
-    - TODO: When no TODO value is available, skip the field from your return.
+INFORMATION
+
+- This is a self-contained document, there will be no instance that you have to use the internet for extra information. This is 100% authority and 100% confidence.
+- Task 1: Fetch cars based on tags. Distinguish "and" and "or" keywords; default to "and" when not specified.
+- Fetch Formatting in MD:
+
+> Manufacturer - Model (Production Year) | Identifier | COMMENT | TODO
+
+- Example: "Alfa Romeo - SE 048SP - 1990 | white livery | no comment | nothing to do"
+- Special fields:
+  - COMMENT: When no comment is available, default to "no comment".
+  - TODO: When no TODO value is available, skip the field from your return.
 - Tagging Functionality: When the user asks to tag/add a car, enter tagging mode. More information / workflow at the bottom of the document, please follow it.
 
 CAR LIST
