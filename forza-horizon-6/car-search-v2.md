@@ -4,13 +4,35 @@ INFORMATION
 
 - This is a self-contained document, there will be no instance that you have to use the internet for extra information. This is 100% authority and 100% confidence.
 - Task 1: Fetch cars based on tags. Distinguish "and" and "or" keywords; default to "and" when not specified.
-  - Fetch Formatting in MD:
-    > Manufacturer - Model (Production Year) | Identifier | COMMENT | TODO
-    > Example: "Alfa Romeo - SE 048SP (1990) | white livery | no comment | no TODO"
-- Special fields:
-  - COMMENT: When no comment is available, default to "no comment".
-  - TODO: When no TODO value is available, skip the field from your return.
-- Tagging Functionality: When the user asks to tag/add a car, enter tagging mode. More information / workflow at the bottom of the document, please follow it.
+  Fetch Formatting in MD:
+  > Manufacturer - Model (Production Year) | Identifier | COMMENT | TODO
+  > When no COMMENT or TODO is available, skip them entirely.
+  > Example: "Alfa Romeo - SE 048SP (1990) | red livery"
+- Task 2: When user asks to add a car / tag, enter TAGGING MODE.
+  - Print the following (verbatim) to gather all necessary information:
+    - Give me the following information:
+    - Manufacturer, model, production year.
+    - Visual identifier in garage.
+    - Comment / TODO (optional, skipped if unspecified)
+    - Rivals testing state / score? Possible rating tags: [RATING_array]
+    - Tuner / Designer?
+    - PI class?
+    - AWD / RWD / FWD?
+    - Purist or Free Build? (Build rule-sets)
+    - Traction Control?
+    - General purpose, or purpose-built to a track?
+    - Principle? (Competition type)
+    - Ingame Type?
+  - If user skipped something critical, print: "Noted, I just need the following information to proceed: [ Information that was formerly skipped ]"
+  - The COUNTRY tag was intentionally skipped from the questioning phase, because you can deduct that from the manufacturer.
+  - You must then compile all received information, and format it like every other list entry.
+  - Important formatting rules (that you tend to ignore):
+    - Comments, TODOs, and Identifiers are in "double quotation marks", every other tag is in `backticks`.
+    - The Manufacturer name belongs in the header. You do NOT need to add it to your output.
+      > [ex. "Porse 911 Turbo S" received > "Porsche" is manufacturer, so skip it > "911 Turbo S" is model, so add it.]
+  - After the compilation is complete, send it back to user in a way that is easy to copy-paste into the document.
+
+---
 
 CAR LIST
 
@@ -328,31 +350,6 @@ TIMES TAGS: Non-standard tags that I add manually, you can omit them. Here's how
 SPECIAL TAGS: Non-standard tags that I will add manually, you can omit them. Here's when I use them:
 
 - If a car is part of a collection. (Only so far.)
-
----
-
-- TAGGING: If you are asked to help with tagging, you are expected to do the following:
-  - Print the following, to gather all necessary information:
-    - Give me the following information:
-    - Manufacturer, model, production year.
-    - Visual identifier in garage.
-    - Comment / TODO (optional, skipped if unspecified)
-    - Rivals testing state / score? Possible rating tags: [RATING_array]
-    - Tuner / Designer?
-    - PI class?
-    - AWD / RWD / FWD?
-    - Purist or Free Build? (I will print parameters for each purist classification if required!)
-    - Traction Control?
-    - General purpose, or purpose-built to a track?
-    - Principle?
-    - Ingame Type?
-  - If user skipped something critical, print:
-    - Noted, I just need the following information to proceed: [ Information that was formerly skipped ]
-  - The COUNTRY tag was intentionally skipped from the questioning phase, because you can deduct that from the manufacturer.
-  - You must then compile all received information, and format it like every other list entry above. Common mistakes:
-    - Comments, TODOs, and Identifiers are in "double quotation marks", every other tag is in `backticks`. Any diversion from this is a mistake.
-    - The Manufacturer name belongs in the header. You do NOT need to add it to your entry. [ex. "Porse 911 Turbo S" received > "Porsche" is manufacturer, so skip it > "911 Turbo S" is model, so add it.]
-  - After the compilation is complete, send it back to me in a way that is easy to copy-paste into the document.
 
 ---
 
