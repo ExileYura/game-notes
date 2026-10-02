@@ -24,3 +24,6 @@
 # Prevention
 
 > Handle Sanity and Hunger stats.
+> Objects that can help in prevention: Clinic (req. medicine production suitability), Hot Springs, Quality Beds, Ancient Monitoring Stand (late-game), Alpha Wave Generator
+> Avoid overworking - control at Monitoring Stand.
+> There are also some foods that can help with sanity (notably Mozzarina Hamburger, which is also the best Work Speed food), but these usually require meat, so they cannot be automatically farmed unless you catch a Legendary Game Hunter (very tedious).
