@@ -361,11 +361,9 @@ Special TODO: [Dump for ideas that I had no time or intention to organize. Print
 
 ---
 
-FH6 Redux Campaign
+# FH6 Redux Campaign
 
 Redux is a special campaign that has its own set of cars, separated from my "everyday" garage. These cars are listed below, information severely stripped - these cars should only be filtered into searches when expliciely told.
-
-Letter A
 
 | Make   | Model        | Year | Identifier | Class    | Driveterrain | Comment x Todo |
 | ------ | ------------ | ---- | ---------- | -------- | ------------ | -------------- |

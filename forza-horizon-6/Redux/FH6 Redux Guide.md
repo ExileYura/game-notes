@@ -1,4 +1,5 @@
 [>> My Spreadsheet >>](https://docs.google.com/spreadsheets/d/1v05tA4SLshNkruMz_CGvW17W9kojAUUK3RLz7532sHw/edit?gid=689083082#gid=689083082)
+[>> My Cars >>](../car-search-v2.md#FH6-Redux-Campaign)
 
 ---
 
@@ -14,7 +15,7 @@ FH6 Redux is a reimagining of the single-player experience in Forza Horizon 6, d
 ✓ Discovered every Street and Touge event in the game.  
 ✓ A fair amount of in-game credits (100k+ is a comfortable starting point).  
 ✓ A 1992 Nissan Skyline GT-R with cool cosmetics and a striking paint job, upgraded to the top of S1 Class (you don't get to keep it).  
-A stock 2017 Toyota JPN Taxi (you don't get to keep it).
+✓ A stock 2017 Toyota JPN Taxi (you don't get to keep it).
 
 **Optional:**  
 An empty in-game garage after you purchase your first car.  
