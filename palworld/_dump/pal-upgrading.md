@@ -18,24 +18,20 @@
 
 # Methods
 
-| Method       | Information & Sources                                                                                                                                                                                                                                         |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Breeding     | [General Breeding](https://palbreed.com/breeding-path) - website accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones.                                                                          |
-|              | [Shortest Path](https://op.gg/palworld/breeding/shortest) - shows an optimal path towards a target pal, and you can specify one parent.                                                                                                                       |
-|              | [Cakes](Foods.md#Cakes) - the items you will use for breeding.                                                                                                                                                                                                |
-| Potential    | -work-in-progress-                                                                                                                                                                                                                                            |
-| Passives     | My [list](passives.md) of passives. This only includes the positive ones. I tried to organize them, but there are just too many, and you can get passives from a variety of sources, so this is a flawed and incomplete resources that I don't intend to fix. |
-|              | [PalProfessor's list](https://thepalprofessor.com/best-builds/) on best passives for each role. Post world-tree. Accurate, recommended.                                                                                                                       |
-| Actives      | You can farm these by planting Skill Trees in the late-game. I will make a resource on this eventually.                                                                                                                                                       |
-| Condensation | Increasing the stars of your pal at the blender. Each increase adds one level for a single work-suitability, the last start adds one level for every work-suitability.                                                                                        |
-
-- Actives
-
-  - Skill Tree Farming.
-
-- Condensation
-
-- Souls
+| Method       | Information & Sources                                                                                                                                                                                                                                                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Breeding     | [General Breeding](https://palbreed.com/breeding-path) - website accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones.                                                                                                                                                |
+|              | [Shortest Path](https://op.gg/palworld/breeding/shortest) - shows an optimal path towards a target pal, and you can specify one parent.                                                                                                                                                                                             |
+|              | [Cakes](Foods.md#Cakes) - the items you will use for breeding.                                                                                                                                                                                                                                                                      |
+| Potential    | -work-in-progress-                                                                                                                                                                                                                                                                                                                  |
+| Passives     | My [list](passives.md) of passives. This only includes the positive ones. I tried to organize them, but there are just too many, and you can get passives from a variety of sources, so this is a flawed and incomplete resources that I don't intend to fix.                                                                       |
+|              | [PalProfessor's list](https://thepalprofessor.com/best-builds/) on best passives for each role. Post world-tree. Accurate, recommended.                                                                                                                                                                                             |
+| Actives      | You can farm these by planting Skill Trees in the late-game. I will make a resource on this eventually.                                                                                                                                                                                                                             |
+| Condensation | Increasing the stars of your pal at the blender. The first three increases add one level for a single work-suitability, the last start adds one level for every work-suitability a pal has.                                                                                                                                         |
+|              | You can also increase condensation level by using Starfruit items, which you can mostly buy from some vendors. This is fast but expensive.                                                                                                                                                                                          |
+|              | I have a somewhat disorganized and incomplete [resource](selection-suitability.md) on this. If you need to find a worker that can reach level 10 with condensation alone, [this](https://thepalprofessor.com/pal-work-stats/) resource will help. Open the "4-Star Work Skills" option to see Pals in their fully-condensed states. |
+| Souls        | Each pal can be strengthened through feeding Souls into them at the Statue of Power, to a maximum bonus of 60% ATK, DEF, HP, and Work Speed. My favored Breed & Butcher pal for soul farming is Sekhmet mid-game, and Dandilord for power world-tree - but there are many options.                                                  |
+| Trust        | Trust can be obtained by having the pal on your team for a long time, or by feeding your pals Kinship Peaches. You get small Kinship Peaches by liberating outposts and releasing the captured pal in the center, and you can buy large Kinship Peaches at the Bounty Officer for 15 Bounty Tokens.                                 |
 
 - Trust
 
