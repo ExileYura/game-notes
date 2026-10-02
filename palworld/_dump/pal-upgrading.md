@@ -14,7 +14,7 @@
 |           | Awakening    |          | Expedition     |      |  Y   |   ?   |
 |           |              | Leveling | Buy            |      |  Y   |   Y   |
 
-> You can make your Pals stronger in 9 different ways. The above chart shows during which stage you must apply each method, and which methods are required based on your Pal's role (base, team, or expedition).
+> You can make your Pals stronger / more valuable in 9 different ways. The above chart shows during which stage you must apply each method, and which methods are required based on your Pal's role (base, team, or expedition).
 
 ---
 
