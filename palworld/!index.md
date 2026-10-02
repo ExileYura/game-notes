@@ -4,6 +4,7 @@ Exile Yura's semi-public Palworld journey documentation and notes.
 
 ---
 
-| Guides                                  | Comment                                                  |
-| --------------------------------------- | -------------------------------------------------------- |
-| [Pal Upgrading](_dump/pal-upgrading.md) | A detailed guide on getting the most out of your slaves! |
+| Guides                                           | Comment                                                                                                                                |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [>> Pal Upgrading >>](_dump/pal-upgrading.md)    | A detailed guide on getting the most out of your slaves!                                                                               |
+| [>> External Link Vault >>](_dump/links-text.md) | A collection to every external resource I use for any purpose. This is for convenience, there will be no explanations on what is what. |
