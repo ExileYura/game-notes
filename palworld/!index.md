@@ -2,6 +2,6 @@ Exile Yura's semi-public Palworld journey documentation and notes
 
 ---
 
-| Guides                                   | Comment                                         |
-| ---------------------------------------- | ----------------------------------------------- |
-| [Max-a-Pal](palworld/_dump/Max-a-Pal.md) | A guide on getting the most out of your slaves! |
+| Guides                                  | Comment                                                  |
+| --------------------------------------- | -------------------------------------------------------- |
+| [Pal Upgrading](_dump/pal-upgrading.md) | A detailed guide on getting the most out of your slaves! |

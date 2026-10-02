@@ -1,4 +1,4 @@
-| Breeding  | Boosting     | Special  | Best Source    | Base | Team | Exped |
+| Breeding  | Boosting     | Other    | Best Source    | Base | Team | Exped |
 | --------- | ------------ | -------- | -------------- | :--: | :--: | :---: |
 | Potential | Potential    |          | Buy            |      |  Y   |   Y   |
 | Passives  | Passives     |          | Breed / Varied |  Y   |  Y   |       |
@@ -10,9 +10,16 @@
 |           | Awakening    |          | Expedition     |      |  Y   |   ?   |
 |           |              | Leveling | Buy            |      |  Y   |   Y   |
 
+> You can make your Pals stronger in 9 different ways. The above chart shows during which stage you must apply each method, and which methods are required based on your Pal's role (base, team, or expedition).
+
 METHODS
 
-- [General Breeding](https://palbreed.com/breeding-path) | [Shortest Path](https://op.gg/palworld/breeding/shortest) | [Cakes](Foods.md#Cakes)
+| Method                                                    | Information & Sources                                                                                                                                                                              |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Breeding                                                  | [General Breeding](https://palbreed.com/breeding-path) - external website that accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones. |
+| [Shortest Path](https://op.gg/palworld/breeding/shortest) | [Cakes](Foods.md#Cakes)                                                                                                                                                                            |
+
+-
 
 - Potential
 
