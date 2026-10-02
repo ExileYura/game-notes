@@ -1,7 +1,6 @@
 # Decision Chart
 
 [<< INDEX <<](../!index.md)
-[<< INDEX <<](../!index.md)
 
 | Breeding  | Boosting     | Other    | Best Source    | Base | Team | Exped |
 | --------- | ------------ | -------- | -------------- | :--: | :--: | :---: |
@@ -39,3 +38,5 @@
 | Trust                      | Trust can be obtained by having the pal on your team for a long time, or by feeding your pals Kinship Peaches. You get small Kinship Peaches by liberating outposts and releasing the captured pal in the center, and you can buy large Kinship Peaches at the Bounty Officer for 15 Bounty Tokens. [Very good video on Bounty Token farming](https://youtu.be/KnNf6t3FEG0?si=GS4s5gQXsJzO3WZQ). |
 | Awakening                  | -work-in-progress-                                                                                                                                                                                                                                                                                                                                                                               |
 | Leveling                   | -work-in-progress- / [EXP Table](https://thepalprofessor.com/xp-tables/)                                                                                                                                                                                                                                                                                                                         |
+
+[<< INDEX <<](../!index.md)
