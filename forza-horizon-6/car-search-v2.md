@@ -365,7 +365,6 @@ Special TODO: [Dump for ideas that I had no time or intention to organize. Print
 
 Redux is a special campaign that has its own set of cars, separated from my "everyday" garage. These cars are listed below, information severely stripped - these cars should only be filtered into searches when expliciely told.
 
-| Make   | Model        | Year | Identifier | Class    | Driveterrain | Comment x Todo |
-| ------ | ------------ | ---- | ---------- | -------- | ------------ | -------------- |
-| Nissan | Skyline GT-R | 1992 | Oni Livery | `S1-800` | `AWD`        | "NPC Car."     |
-| Toyota | JPN TAXI     | 2017 | Dark Gray  | `stock`  | `FWD`        |                |
+| Make   | Model | Year | Identifier | Class     | Driveterrain | Garage | Comment x Todo |
+| ------ | ----- | ---- | ---------- | --------- | ------------ | ------ | -------------- |
+| Nissan | 240SX | 1993 | Red        | `unrated` | `RWD`        |        |
