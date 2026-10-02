@@ -6,3 +6,15 @@
 - [Same Axle Hybrid Systems](https://www.patreon.com/RLSVehicleLabs/posts/rls-vehicle-labs-160196203?collection=1945466) (required by RLS car mods), [Bruckell Ravix](https://www.patreon.com/RLSVehicleLabs/posts/bruckell-ravix-0-166055471?collection=1945466), and [Ibishu Yoru](https://www.patreon.com/RacelessRLS/posts/rls-ibishu-yoru-165100774?collection=1829279) (which is in the Gold Tier, but access isn't restricted for some reason).
 - [Tanker Hotfix](https://www.patreon.com/RacelessRLS/posts/rls-tanker-v0-1-156649771?collection=1829268) to prevent Tankers from exploding upon refuel.
 - These (0.39) links might be outdated; check the patreon for updates: [Patreon >>](https://www.patreon.com/collection/1829268?view=expanded)
+
+---
+
+Car Mods (3 RLS related car mods listed above only ^)
+
+| Vanilla-like                                                               | Config-only                                                                   | Real-world |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- |
+| [Gavril Vertex](https://www.beamng.com/resources/gavril-vertex-na2.13061/) | [Bartinew Car Pack](https://www.beamng.com/resources/bnew-add-on-pack.34104/) |            |
+
+Map Mods: [Industrial Village](https://www.beamng.com/resources/rls-industrial-village.37915/?utm_source=chatgpt.com) - [Automation Test Track Overhaul](https://www.beamng.com/resources/rls-automation-test-track-overhaul.38598/?utm_source=chatgpt.com)
+
+Career Mods: [Criminal Overhaul](https://www.beamng.com/resources/rls-criminal-overhaul-updated-to-work-with-rls-career-overhaul-v2-7-1.39059/?utm_source=chatgpt.com)
