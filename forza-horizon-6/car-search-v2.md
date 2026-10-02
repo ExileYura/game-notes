@@ -368,3 +368,4 @@ Redux is a special campaign that has its own set of cars, separated from my "eve
 | Make   | Model        | Year | Identifier | Class    | Driveterrain | Comment x Todo |
 | ------ | ------------ | ---- | ---------- | -------- | ------------ | -------------- |
 | Nissan | Skyline GT-R | 1992 | Oni Livery | `S1-800` | `AWD`        | "NPC Car."     |
+| Toyota | JPN TAXI     | 2017 | Dark Gray  | `stock`  | `FWD`        |                |
