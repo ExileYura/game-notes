@@ -14,10 +14,11 @@
 
 METHODS
 
-| Method                                                    | Information & Sources                                                                                                                                                                              |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Breeding                                                  | [General Breeding](https://palbreed.com/breeding-path) - external website that accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones. |
-| [Shortest Path](https://op.gg/palworld/breeding/shortest) | [Cakes](Foods.md#Cakes)                                                                                                                                                                            |
+| Method   | Information & Sources                                                                                                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Breeding | [General Breeding](https://palbreed.com/breeding-path) - external website that accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones. |
+|          | [Shortest Path](https://op.gg/palworld/breeding/shortest)                                                                                                                                          |
+|          | [Cakes](Foods.md#Cakes)                                                                                                                                                                            |
 
 -
 
