@@ -12,7 +12,7 @@
 
 METHODS
 
-- [General Breeding](https://palbreed.com/breeding-path) | [Shortest Path](https://op.gg/palworld/breeding/shortest) | [Cakes](clues/Foods.md#Cakes)
+- [General Breeding](https://palbreed.com/breeding-path) | [Shortest Path](https://op.gg/palworld/breeding/shortest) | [Cakes](Foods.md#Cakes)
 
 - Potential
 
