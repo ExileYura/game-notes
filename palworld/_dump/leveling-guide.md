@@ -1,0 +1,17 @@
+!!! INCOMPLETE RESOURCE !!!
+
+| Relevant Items / Adj.    | Obtain                             | Reasoning                                                                                                                                                                                                      |
+| ------------------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Growth Acceleration Bell | -26, -92 at Mount Flopie           | Pal exp up lv.3 - (approx. 50%)                                                                                                                                                                                |
+| Omascul                  | Condensation                       | +80% exp bonus for Pals.                                                                                                                                                                                       |
+|                          |                                    | Some player research suggests that taking multiple Omasculs with different condensation levels stack the passive. Needs more testing.                                                                          |
+|                          |                                    | Omascul built with Sand Twister, Apocalypse, and Circle Vine actives, and Grass, Dark, Ground Batons, and Dogen Emblem accessories is PalProfessor's recommendation - this can carry through the Zenara fight. |
+| Seafood Salad            | 3x Gloopie Tentacle + 4x Lettuce   | +20% exp bonus for Pals.                                                                                                                                                                                       |
+| Training Crystal         | F.DB: Xenolord Farm (PalProfessor) | Increases a Pal's level by one; should be saved for high levels.                                                                                                                                               |
+
+| Methods                           | Preparation and Information                                                                                                                                       |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zenara Fight (PalProfessor)       | - Omascul / Sand Twister, Apocalypse, Circle Vine / Immortality, Serenity, God of Destruction, Twin-Edged Holy Blade / Grass-, Dark-, Ground Batons, Dogen Emblem |
+|                                   | - 135 million exp, 3 fights - lv.1 to lv.80.                                                                                                                      |
+|                                   | - ~3 minutes per turn, needs no interference besides spacing.                                                                                                     |
+| PalProfessor's Additional Methods | - Oil Rig > Dungeons > Alpha Pals > Predators > Hard Mode Towers -- listed in this order top to bottom.                                                           |
