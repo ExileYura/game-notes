@@ -16,7 +16,7 @@
 | Work Suitability Books | [Xenolord Farming](#farming-methods)                                                 | ~120/H - Cooling / Electric / Handiwork      |
 | Training Crystals      | [Xenolord Farming](#farming-methods)                                                 | ~580/H                                       |
 
-[^top^](#farming-center)
+[^top^](#farming-center) | [Farming Methods](#farming-methods)
 
 ---
 
@@ -31,7 +31,7 @@
 |                              | Loot: Training Crystals (~580/H) / Applied Cooling, Electric, Handiwork (~120/H)                                                                            |
 |                              | You can get away with less, but the above setup is optimized.                                                                                               |
 
-[^top^](#farming-center)
+[^top^](#farming-center) | [Items](#items)
 
 ---
 
