@@ -32,3 +32,9 @@
 |                              | You can get away with less, but the above setup is optimized.                                                                                               |
 
 [^top^](#farming-center)
+
+---
+
+TODO:
+
+Applied Work Suitability Books still missing: Kindling, Watering, Planting, Gathering, Lumbering, Mining, Medicine, Transport, Ranching
