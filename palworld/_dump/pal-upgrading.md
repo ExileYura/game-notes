@@ -1,6 +1,7 @@
 # Decision Chart
 
-> [<< INDEX <<](../!index.md)
+[<< INDEX <<](../!index.md)
+[<< INDEX <<](../!index.md)
 
 | Breeding  | Boosting     | Other    | Best Source    | Base | Team | Exped |
 | --------- | ------------ | -------- | -------------- | :--: | :--: | :---: |
