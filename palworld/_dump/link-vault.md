@@ -5,8 +5,21 @@ External Link Vault
 | Resouce                                                                                                                                                                                                                                                      | Comment |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
 | [Tech Tree](https://palworld.gg/technology-tree)                                                                                                                                                                                                             |         |
+| [>> Job Priority >>](priority.md)                                                                                                                                                                                                                            |         |
 | [Work Suitabilities](https://thepalprofessor.com/pal-work-stats/)                                                                                                                                                                                            |         |
 | [Suitability Values](https://www.reddit.com/media?url=https%3A%2F%2Fcf.preview.redd.it%2Fquestion-about-suitability-and-work-speed-for-pals-v0-mzzmowtd6yeh1.png%3Fwidth%3D1080%26format%3Dpng%26auto%3Dwebp%26s%3Deca430da38135d7691f053cccbd027acb0cc8f4a) |         |
 | [Affinities / Elemental Chart](https://palworld.fandom.com/wiki/Elements?file=Elemental_Chart.png)                                                                                                                                                           |         |
 | [Video Resouce on Building Stacking](https://youtu.be/xsAVWeKlS7k?si=HFlxkUsXz9J0sBRh)                                                                                                                                                                       |         |
-| [Food](food.md)                                                                                                                                                                                                                                              |         |
+| [>> Food >>](food.md)                                                                                                                                                                                                                                        |         |
+| [>> Medicine & Sanity >>](medical.md)                                                                                                                                                                                                                        |         |
+
+| Map                | Link                                                             |
+| ------------------ | ---------------------------------------------------------------- |
+| Oil Rigs           | https://paldb.cc/en/Map?filters=Oilrig+Chest+Goal%2COilrig+Chest |
+| -->> Suitabilities | https://thepalprofessor.com/pal-work-stats/                      |
+| Pal Locations      | https://www.palpedia.net/map                                     |
+| Alpha Locations    | https://www.palpedia.net/map?options=fast_travel%2Calpha_pals    |
+| Dungeons           | https://www.palpedia.net/map?options=fast_travel%2Cdungeon       |
+| > Enemy Camps      | https://www.palworldguide.net/map                                |
+
+> Enemy Camps > Most maps appear outdated. The one linked is up-to-date at current day, but always assume there are more camps undocumented, coming un future updates.
