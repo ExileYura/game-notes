@@ -20,4 +20,4 @@ This segment will cover finding out what pals you want, and getting them.
 # On Breeding
 
 - My two most important breeding calculators are [> General Breeding >](https://palbreed.com/breeding-path) which lets you upload your save-file, and displays only pals that you can immediately breed for, and the [> Shortest Path >](https://op.gg/palworld/breeding/shortest) calculator which lets you pick one parent (that you presumably have a Passive you want to inherit on) and the target pal.
-- Breed what you can, catch what you cannot. Or the other way around. I don't care. ¯\\\_(ツ)\\\_/¯
+- Breed what you can, catch what you cannot. Or the other way around. I don't care. ¯\\\_(ツ)\_/¯
