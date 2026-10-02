@@ -1,5 +1,7 @@
 # Decision Chart
 
+> [<< INDEX <<](../!index.md)
+
 | Breeding  | Boosting     | Other    | Best Source    | Base | Team | Exped |
 | --------- | ------------ | -------- | -------------- | :--: | :--: | :---: |
 | Potential | Potential    |          | Buy            |      |  Y   |   Y   |
