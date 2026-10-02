@@ -1,10 +1,27 @@
-FARMING CENTER
+# FARMING CENTER
 
-This will be a sub-index.
+[<< INDEX <<](../!index.md)
+[items](#items) | [methods](#methods)
 
-Organize this later:
+---
 
-FARMING DB
+# Items
+
+| Item                   | Methods                                                                              | Comment                                    |
+| ---------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| Gold                   | [> Dumud Gild Farming >](https://thepalprofessor.com/making-money/)                  | Most gold / hour, but not fully automatic. |
+| Skill Fruits           | >> Orchard Farming Guide >> - todo -                                                 |                                            |
+|                        | [> Wild Skill Fruit Locations >](https://thepalprofessor.com/skill-fruit-locations/) |                                            |
+| Schematics             | [> Fixed Spawn Location >](https://thepalprofessor.com/ancient-ruins/)               | These, you have to find.                   |
+|                        | [> No Fixed Spawn >](https://thepalprofessor.com/legendary-schematics/)              | These, you have to grind.                  |
+| Work Suitability Books | [Xenolord Farming](#methods)                                                         |
+| Training Crystals      |                                                                                      |
+
+[^top^](#farming-center)
+
+---
+
+# Methods
 
 | Farms                        | Preparation and Information                                                                                                                                   |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,9 +31,4 @@ FARMING DB
 |                              | - Loot: Training Crystals (~580/H) / Applied Cooling, Electric, Handiwork (~120/H)                                                                            |
 |                              | - Lv.65 boss; the above preparation is more than sufficient - you can get away with less, but time will be impacted.                                          |
 
-| Resource Farming          | Link                                               |
-| ------------------------- | -------------------------------------------------- |
-| Schematics - Set Location | https://thepalprofessor.com/ancient-ruins/         |
-| Schematics - Farmed       | https://thepalprofessor.com/legendary-schematics/  |
-| Skill Fruit Locations     | https://thepalprofessor.com/skill-fruit-locations/ |
-| Gold                      | https://thepalprofessor.com/making-money/          |
+[^top^](#farming-center)
