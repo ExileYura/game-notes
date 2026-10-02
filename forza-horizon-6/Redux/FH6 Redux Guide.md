@@ -8,12 +8,12 @@ Hello everyone, and welcome to FH6 Redux. This is a project that I'm delighted t
 FH6 Redux is a reimagining of the single-player experience in Forza Horizon 6, designed to make progression feel more meaningful, immersive and rewarding. Whilst FH6 is a phenomenal racing game, I wanted to create a career experience inspired by classic progression-focused racing games of the past such as Forza Motorsport 1, Gran Turismo 4, NFS Most Wanted ‘05 and Test Drive Unlimited; one where every car purchase matters, every championship feels earned and every journey across the map has purpose.
 
 **Requirements:**  
-Obtained a Gold Wristband.  
-Obtained a Yellow Stamp in Discover Japan  
-Completed every Road, Dirt and CC event in the game.  
-Discovered every Street and Touge event in the game.  
-A fair amount of in-game credits (100k+ is a comfortable starting point).  
-A 1992 Nissan Skyline GT-R with cool cosmetics and a striking paint job, upgraded to the top of S1 Class (you don't get to keep it).  
+✓ Obtained a Gold Wristband.  
+✓ Obtained a Yellow Stamp in Discover Japan  
+✓ Completed every Road, Dirt and CC event in the game.  
+✓ Discovered every Street and Touge event in the game.  
+✓ A fair amount of in-game credits (100k+ is a comfortable starting point).  
+✓ A 1992 Nissan Skyline GT-R with cool cosmetics and a striking paint job, upgraded to the top of S1 Class (you don't get to keep it).  
 A stock 2017 Toyota JPN Taxi (you don't get to keep it).
 
 **Optional:**  

@@ -358,3 +358,15 @@ Special TODO: [Dump for ideas that I had no time or intention to organize. Print
 - Service Vehicles list, for building police, fire fighter, taxi, and similar vehicles: 2010 Ford Crown Victoria Police Interceptor (police) -- 1996 Chevrolet Impala Super Sport (police) -- 2014 Mercedes-Benz Unimog U5023 (fire/rescue) -- 2015 Audi RS 6 Avant (police/emergency response) -- 2017 Chevrolet Camaro ZL1 (police/highway patrol) -- 2008 Mitsubishi Lancer Evolution X GSR (police/highway patrol) -- 2014 Volkswagen Golf R (police/emergency response) -- 2014 Alfa Romeo 4C (police/response) -- 2016 BMW M4 GTS (police/traffic enforcement) -- 2020 Mercedes-AMG GT Black Series (rapid-response police) -- 2005 Toyota Crown Super Deluxe Taxi (taxi) -- 2017 Toyota JPN Taxi (taxi) -- 1994 Honda Acty (delivery/utility/municipal) -- Honda Acty 'RakuRaku Express' (delivery) -- 1991 Toyota Chaser GT Twin Turbo (taxi/job configuration)
 - Car Collections I want to start / finish: Need for Speed collection | Cars (the movie) collection | Hippie collection
   - Meme Collection: "Jesus is my Airbag" Reliant Supervan | "Scooby Doo" Ford Supervan | "Peppa Pig" Supervan | "Kinder" Beetle | Mr. Bean car | South Park WV bus
+
+---
+
+FH6 Redux Campaign
+
+Redux is a special campaign that has its own set of cars, separated from my "everyday" garage. These cars are listed below, information severely stripped - these cars should only be filtered into searches when expliciely told.
+
+Letter A
+
+| Make   | Model        | Year | Identifier | Class    | Driveterrain | Comment x Todo |
+| ------ | ------------ | ---- | ---------- | -------- | ------------ | -------------- |
+| Nissan | Skyline GT-R | 1992 | Oni Livery | `S1-800` | `AWD`        | "NPC Car."     |
