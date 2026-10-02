@@ -18,25 +18,16 @@
 
 # Methods
 
-| Method    | Information & Sources                                                                                                                                                                                                                                         |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Breeding  | [General Breeding](https://palbreed.com/breeding-path) - website accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones.                                                                          |
-|           | [Shortest Path](https://op.gg/palworld/breeding/shortest) - shows an optimal path towards a target pal, and you can specify one parent.                                                                                                                       |
-|           | [Cakes](Foods.md#Cakes) - the items you will use for breeding.                                                                                                                                                                                                |
-| Potential | -work-in-progress-                                                                                                                                                                                                                                            |
-| Passives  | My [list](passives.md) of passives. This only includes the positive ones. I tried to organize them, but there are just too many, and you can get passives from a variety of sources, so this is a flawed and incomplete resources that I don't intend to fix. |
-|           | [PalProfessor's list](https://thepalprofessor.com/best-builds/) on best passives for each role. Post world-tree.                                                                                                                                              |
-
-- Passives -- [ PalProfessor's List: https://thepalprofessor.com/best-builds/ ]
-
-| Workers                  | Stats           | Method              | Comment         |
-| ------------------------ | --------------- | ------------------- | --------------- |
-| Demon's Hand             | Work Speed +90% | World Tree          |                 |
-| Remarkable Craftsmanship | Work Speed +75% | Breed or Disposable |                 |
-| Artisan                  | Work Speed +50% | Surgery             |                 |
-| Insomnia                 |                 |                     | Sleep negation. |
-| Vampiric                 |                 |                     | Sleep negation. |
-| Work Slave               | Work Speed +30% | Surgery             | Dark Pals only. |
+| Method       | Information & Sources                                                                                                                                                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Breeding     | [General Breeding](https://palbreed.com/breeding-path) - website accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones.                                                                          |
+|              | [Shortest Path](https://op.gg/palworld/breeding/shortest) - shows an optimal path towards a target pal, and you can specify one parent.                                                                                                                       |
+|              | [Cakes](Foods.md#Cakes) - the items you will use for breeding.                                                                                                                                                                                                |
+| Potential    | -work-in-progress-                                                                                                                                                                                                                                            |
+| Passives     | My [list](passives.md) of passives. This only includes the positive ones. I tried to organize them, but there are just too many, and you can get passives from a variety of sources, so this is a flawed and incomplete resources that I don't intend to fix. |
+|              | [PalProfessor's list](https://thepalprofessor.com/best-builds/) on best passives for each role. Post world-tree. Accurate, recommended.                                                                                                                       |
+| Actives      | You can farm these by planting Skill Trees in the late-game. I will make a resource on this eventually.                                                                                                                                                       |
+| Condensation | Increasing the stars of your pal at the blender. Each increase adds one level for a single work-suitability, the last start adds one level for every work-suitability.                                                                                        |
 
 - Actives
 
