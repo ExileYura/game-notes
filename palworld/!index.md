@@ -1,4 +1,5 @@
 Exile Yura's semi-public Palworld journey documentation and notes.
+
 !!! this resource is incomplete !!!
 
 ---
