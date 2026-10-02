@@ -6,15 +6,15 @@
 
 # Items
 
-| Item                   | Methods                                                                              | Comment                                      |
-| ---------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------- |
-| Gold                   | [> Dumud Gild Farming >](https://thepalprofessor.com/making-money/)                  | Most gold per hour, but not fully automatic. |
-| Skill Fruits           | >> Orchard Farming Guide >> - todo -                                                 |                                              |
-|                        | [> Wild Skill Fruit Locations >](https://thepalprofessor.com/skill-fruit-locations/) |                                              |
-| Schematics             | [> Fixed Spawn Location >](https://thepalprofessor.com/ancient-ruins/)               | These, you have to find.                     |
-|                        | [> No Fixed Spawn >](https://thepalprofessor.com/legendary-schematics/)              | These, you have to grind.                    |
-| Work Suitability Books | [Xenolord Farming](#farming-methods)                                                 | ~120/H - Cooling / Electric / Handiwork      |
-| Training Crystals      | [Xenolord Farming](#farming-methods)                                                 | ~580/H                                       |
+| Item                   | Methods                                                                                | Comment                                 |
+| ---------------------- | -------------------------------------------------------------------------------------- | --------------------------------------- |
+| Gold                   | [> Dumud Gild / Sekhmet Chromite Farming >](https://thepalprofessor.com/making-money/) |                                         |
+| Skill Fruits           | >> Orchard Farming Guide >> - todo -                                                   |                                         |
+|                        | [> Wild Skill Fruit Locations >](https://thepalprofessor.com/skill-fruit-locations/)   |                                         |
+| Schematics             | [> Fixed Spawn Location >](https://thepalprofessor.com/ancient-ruins/)                 | These, you have to find.                |
+|                        | [> No Fixed Spawn >](https://thepalprofessor.com/legendary-schematics/)                | These, you have to grind.               |
+| Work Suitability Books | [Xenolord Farming](#farming-methods)                                                   | ~120/H - Cooling / Electric / Handiwork |
+| Training Crystals      | [Xenolord Farming](#farming-methods)                                                   | ~580/H                                  |
 
 [^top^](#farming-center) | [Farming Methods](#farming-methods)
 
