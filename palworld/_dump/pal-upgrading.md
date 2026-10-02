@@ -9,7 +9,7 @@
 |                  | Actives      |           | Orchard        |      |  Y   |       |
 |                  | Condensation |           | Buy            |  Y   |  Y   |   Y   |
 |                  | Souls        |           | Butcher        |  Y   |  Y   |   Y   |
-|                  | Trust        |           | Buy            |      |  Y   |   Y   |
+|                  | Trust        | Trust     | Buy            |      |  Y   |   Y   |
 |                  | Suitability  |           | Buy            |  Y   |      |       |
 |                  | Awakening    |           | Expedition     |      |  Y   |   ?   |
 |                  |              | Leveling  | Buy            |      |  Y   |   Y   |
