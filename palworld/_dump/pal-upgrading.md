@@ -19,12 +19,13 @@
 # Methods
 
 | Method    | Information & Sources                                                                                                                                                                |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Breeding  | [General Breeding](https://palbreed.com/breeding-path) - website accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones. |
 |           | [Shortest Path](https://op.gg/palworld/breeding/shortest) - shows an optimal path towards a target pal, and you can specify one parent.                                              |
 |           | [Cakes](Foods.md#Cakes) - the items you will use for breeding.                                                                                                                       |
 | Potential | -work-in-progress-                                                                                                                                                                   |
-| Passives  |
+| Passives  | My                                                                                                                                                                                   | [list](passives.md) of passives. This only includes the positive ones. I tried to organize them, but there are just too many, and you can get passives from a variety of sources, so this is a flawed and incomplete resources that I don't intend to fix. |
+|           | [PalProfessor's list](https://thepalprofessor.com/best-builds/) on best passives for each role. Post world-tree.                                                                     |
 
 - Passives -- [ PalProfessor's List: https://thepalprofessor.com/best-builds/ ]
 
