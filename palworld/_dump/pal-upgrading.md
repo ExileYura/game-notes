@@ -16,17 +16,15 @@
 
 ---
 
-METHODS
+# Methods
 
-| Method   | Information & Sources                                                                                                                                                                |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Breeding | [General Breeding](https://palbreed.com/breeding-path) - website accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones. |
-|          | [Shortest Path](https://op.gg/palworld/breeding/shortest) - shows an optimal path towards a target pal, and you can specify one parent.                                              |
-|          | [Cakes](Foods.md#Cakes) - the items you will use for breeding.                                                                                                                       |
-
--
-
-- Potential
+| Method    | Information & Sources                                                                                                                                                                |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Breeding  | [General Breeding](https://palbreed.com/breeding-path) - website accepts uploads of your save-file, and shows the most convenient way to breed into any pal from your existing ones. |
+|           | [Shortest Path](https://op.gg/palworld/breeding/shortest) - shows an optimal path towards a target pal, and you can specify one parent.                                              |
+|           | [Cakes](Foods.md#Cakes) - the items you will use for breeding.                                                                                                                       |
+| Potential | -work-in-progress-                                                                                                                                                                   |
+| Passives  |
 
 - Passives -- [ PalProfessor's List: https://thepalprofessor.com/best-builds/ ]
 
