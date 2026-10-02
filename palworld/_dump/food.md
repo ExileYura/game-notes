@@ -1,5 +1,7 @@
 # Foods
 
+[<< Pal Upgrading <<](pal-upgrading.md#Methods)
+
 | Our Favorite Foods       |  Bonuses | Recipe                                                                | Production                            |
 | ------------------------ | -------: | --------------------------------------------------------------------- | ------------------------------------- |
 | Mammorest Curry          |  ATK 25% | Mammorest Meat x1 / Onion x2 / Carrot x2 / Potato x2 / Red Berries x2 | Butcher, Plantation                   |
