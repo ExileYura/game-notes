@@ -26,3 +26,7 @@
 | Vegetable Cake   |  47   | Double Eggs                 | Flour x8 / Tomato x8 / Lettuce x7 / Egg x8 / Honey x4                        |
 | Mushroom Cake    |  30   | Higher Potential            | Flour x5 / Mushroom x5 / Cavern Mushroom x3 / Egg x8 / Honey x2              |
 | Cake             |  17   |                             | Flour x5 / Red Berries x8 / Milk x7 / Egg x8 / honey x2                      |
+
+Farming Information.
+
+- Lettuce and Tomato plantations both produce the same quantity, but Lettuce grows for 330s, while tomato grows for 300s. Perfect ratio is 33 Lettuce : 30 Tomato; or scaled similar. NEEDS TESTING FOR EXACT NUMBERS, SOURCES ARE INCONSISTENT. (Maybe 225 to 180).

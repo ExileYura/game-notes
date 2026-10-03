@@ -2,6 +2,8 @@ BASE
 
 ---
 
+# Best in Role for Base
+
 | Base           | Pal         | Lvl in Role | Secondary Suitabilities                         | Extras                     | Comment        |
 | -------------- | ----------- | ----------- | ----------------------------------------------- | -------------------------- | -------------- |
 | Kindling       | Bushi Noct  | 2 to 4      | Lumbering, Handiwork, Transportation, Gathering | Small, Dark                |                |
@@ -19,6 +21,10 @@ BASE
 | Transportation |
 | Other          |
 | Combat         |
+
+---
+
+# Ranch Drops
 
 | Pal Loot             | Pal              | Purpose    | Comment                                                                           |
 | -------------------- | ---------------- | ---------- | --------------------------------------------------------------------------------- |
@@ -50,30 +56,30 @@ BASE
 | -->>                 | Vixy             | Other      | Pal Spheres, Arrows, Coins.                                                       |
 | -->>                 | Mau              | Other      | Gold coin, low rate, not worth it.                                                |
 
-| Suitability Increasers | Type           |
-| ---------------------- | -------------- |
-| Katress Ignis          | Kindling       |
-| Amione                 | Watering       |
-| Smokie Cryst           | Cooling        |
-| Ribbuny                | Handiwork      |
-| Petallia               | Planting       |
-| Clovee                 | Gathering      |
-| Eikthyrdeer Terra      | Lumbering      |
-| Tetroise               | Mining         |
-| Puffolt                | Electricity    |
-| Mycora                 | Medicine       |
-| Wumpo                  | Transportation |
-| Cinnamoth              | Ranching       |
+---
 
-Farming Information.
+# Suitability Increase
 
-- Lettuce and Tomato plantations both produce the same quantity, but Lettuce grows for 330s, while tomato grows for 300s. Perfect ratio is 33 Lettuce : 30 Tomato; or scaled similar. NEEDS TESTING FOR EXACT NUMBERS, SOURCES ARE INCONSISTENT. (Maybe 225 to 180).
+| Suitability Increase | Type           |
+| -------------------- | -------------- |
+| Katress Ignis        | Kindling       |
+| Amione               | Watering       |
+| Smokie Cryst         | Cooling        |
+| Ribbuny              | Handiwork      |
+| Petallia             | Planting       |
+| Clovee               | Gathering      |
+| Eikthyrdeer Terra    | Lumbering      |
+| Tetroise             | Mining         |
+| Puffolt              | Electricity    |
+| Mycora               | Medicine       |
+| Wumpo                | Transportation |
+| Cinnamoth            | Ranching       |
+
+> These pals increase work suitability by one point for every pal in the base.
 
 ---
 
 COMBAT -- [ Mechanics | https://thepalprofessor.com/combat-mechanics/ ]
-
----
 
 | Combat | Pal | Lvl in Role | Secondary Suitabilities | Extras | Comment |
 | ------ | --- | ----------- | ----------------------- | ------ | ------- |
