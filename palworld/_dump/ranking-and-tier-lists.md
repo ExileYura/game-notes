@@ -8,7 +8,7 @@
 
 ---
 
-On Transporters: [https://www.reddit.com/r/PalworldGuide/comments/1vblaov/fastest_transport_pal/]
+On Transporters: []
 
 - Apparently, the size of a pal matters. The bigger it is the faster it moves due to "frame logic". This means that even if a small pal has high transport speed, a huge pal with mid transport speed might be faster in practice. In this thread, people conclude this:
 
@@ -18,9 +18,12 @@ On Transporters: [https://www.reddit.com/r/PalworldGuide/comments/1vblaov/fastes
   - Passives: Swift, Nimble, Runner, Dimensional Leap
 
 - [Absorption Range](https://youtu.be/6xk7Gap_dgw?si=PYcJskzJJNSmZLd1)
-  - It is best to go with smaller pals at locations with ground loot.
-  - Level 8 (range 700) is saturation threshold - ground loot haulers under level 8 are not going to be efficient.
-  - Pals at level 1 to 3 will NOT have any absorption range - these will just pick up and haul a single stack, regardless of how many items are in the stack.
+  - For locations with ground loot:
+  - Level 1 - 3: No absorption range at all.
+  - Level 4 - 7: Have absorption range, it is not big. Bigger pals don't go as close to the loot as smaller pals - meaning they cannot utilize their absorption ranges fully. Smaller haulers in this level range are always better.
+  - Level 8 - 10: Have very large absorption ranges, therefore size or alpha-status doesn't matter for the purpose of absorption range.
+  - Discussed in [this reddit thread](https://www.reddit.com/r/PalworldGuide/comments/1vblaov/fastest_transport_pal/), people came to the conclusion that (not accounting to absorption range) bigger sizes are better, because movement speed scales with size, meaning that if a small pal and a large pal have the same speed stats, the larger will be noticably more efficient.
+  - The most optimal ground loot hauler will be a level 10 that is very fast, and is as large as can be while fully exerting its absorption range. The most optimal non-ground loot hauler will not be constrailed by absorption range however, and so being too large is not a factor.
 
 ---
 
