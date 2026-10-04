@@ -4,13 +4,13 @@ I use many mods in this game, consequently I don't remake my modlist every singl
 
 # Mod Lists
 
-| Folder                                                                                      | Purpose                                                                                                                    |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [> Core / Tweaks >](https://steamcommunity.com/sharedfiles/filedetails/?id=3567331246)      | Enable All.                                                                                                                |
-| [> Core Expanded >](https://steamcommunity.com/sharedfiles/filedetails/?id=3567331246)      | Enable All (intended). Mostly Vanilla Expanded mods, with some removed due to bugs, undesired effects, or lack of updates. |
-| [> Selectable Content >](https://steamcommunity.com/sharedfiles/filedetails/?id=3422461483) | Large content mods, where you can enable the ones you like one-by-one. Bear in mind that they are often outdated.          |
-| [> Races and Factions >](https://steamcommunity.com/sharedfiles/filedetails/?id=3422467838) | Race mods - recommended off unless you have an explicite goal, they impact performance a lot more that you would expect.   |
-| [> Awaiting Update >](https://steamcommunity.com/sharedfiles/filedetails/?id=3571179369)    | Mods that were outdated when I last reviewed my list.                                                                      |
+| Folder                                                                                      | Purpose                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [> Core / Tweaks >](https://steamcommunity.com/sharedfiles/filedetails/?id=3422413083)      | Enable All.                                                                                                                                                                        |
+| [> Core Expanded >](https://steamcommunity.com/sharedfiles/filedetails/?id=3567331246)      | Enable All (intended). Mostly Vanilla Expanded mods, with some removed due to bugs, undesired effects, or lack of updates.                                                         |
+| [> Selectable Content >](https://steamcommunity.com/sharedfiles/filedetails/?id=3422461483) | Large content mods, where you can enable the ones you like one-by-one. Bear in mind that they are often outdated. Primary concern should be performance - only take what you need. |
+| [> Races and Factions >](https://steamcommunity.com/sharedfiles/filedetails/?id=3422467838) | Race mods - recommended off unless you have an explicite goal, they impact performance a lot more that you would expect.                                                           |
+| [> Awaiting Update >](https://steamcommunity.com/sharedfiles/filedetails/?id=3571179369)    | Mods that were outdated when I last reviewed my list.                                                                                                                              |
 
 ---
 
