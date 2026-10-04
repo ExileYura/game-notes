@@ -8,22 +8,16 @@
 
 ---
 
-On Transporters: []
-
-- Apparently, the size of a pal matters. The bigger it is the faster it moves due to "frame logic". This means that even if a small pal has high transport speed, a huge pal with mid transport speed might be faster in practice. In this thread, people conclude this:
-
-  - Eidrolon > Cthulhu > Mimog - all tested and compared.
-  - Alpha always better.
-  - PalProfessor's fastest (Faleris Aqua) not mentioned.
-  - Passives: Swift, Nimble, Runner, Dimensional Leap
+Note on Transporters:
 
 - [Absorption Range](https://youtu.be/6xk7Gap_dgw?si=PYcJskzJJNSmZLd1)
   - For locations with ground loot:
   - Level 1 - 3: No absorption range at all.
-  - Level 4 - 7: Have absorption range, it is not big. Bigger pals don't go as close to the loot as smaller pals - meaning they cannot utilize their absorption ranges fully. Smaller haulers in this level range are always better.
+  - Level 4 - 7: Have absorption range, it is not big. Bigger pals don't go as close to the loot as smaller pals - meaning they cannot utilize their absorption ranges fully. Smaller transporter in this level range are always better.
   - Level 8 - 10: Have very large absorption ranges, therefore size or alpha-status doesn't matter for the purpose of absorption range.
   - Discussed in [this reddit thread](https://www.reddit.com/r/PalworldGuide/comments/1vblaov/fastest_transport_pal/), people came to the conclusion that (not accounting to absorption range) bigger sizes are better, because movement speed scales with size, meaning that if a small pal and a large pal have the same speed stats, the larger will be noticably more efficient.
-  - The most optimal ground loot hauler will be a level 10 that is very fast, and is as large as can be while fully exerting its absorption range. The most optimal non-ground loot hauler will not be constrailed by absorption range however, and so being too large is not a factor.
+  - The most optimal ground loot transporter will be a level 10 that is very fast, and is as large as can be while fully exerting its absorption range (unless you glitch the pathfinding, in which case they will go deeper and deeper into the ranches anyway, and absorption range naturally extends to more items). The most optimal non-ground loot transporter will not be constrailed by absorption range however, and so being too large is not a factor.
+  - Passives: Swift, Nimble, Runner, Dimensional Leap
 
 ---
 
