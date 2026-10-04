@@ -19,7 +19,7 @@ Note on Transporters:
   - So what is best?
     - The most optimal ground loot transporter will be a level 10 that is very fast, and is as large as can be while fully exerting its absorption range - Faleris Aqua is recommended.
     - If you glitch the pathfinding, the only factor that stays relevant is their [run speed](https://thepalprofessor.com/transporting-pals/), where the winner is Mimog.
-    - The most optimal non-ground loot transporter will not be constrailed by absorption range however, and so being too large is not a factor - in this case, the selection should be made similarly to the above two.
+    - The most optimal non-ground loot transporter will not be constrailed by absorption range however, and so being too large is not a factor - Alpha Eidrolon is big and very fast, and also nocturnal.
   - Passives: Swift, Nimble, Runner, Dimensional Leap, (Vampiric)
 
 ---
