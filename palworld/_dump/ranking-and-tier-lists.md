@@ -18,7 +18,7 @@ Note on Transporters:
   - Discussed in [this reddit thread](https://www.reddit.com/r/PalworldGuide/comments/1vblaov/fastest_transport_pal/), people came to the conclusion that (not accounting to absorption range) bigger sizes are better, because movement speed scales with size, meaning that if a small pal and a large pal have the same speed stats, the larger will be noticably more efficient.
   - So what is best?
     - The most optimal ground loot transporter will be a level 10 that is very fast, and is as large as can be while fully exerting its absorption range - Faleris Aqua is recommended.
-    - If you glitch the pathfinding, the only factor that stays relevant is their [run speed](https://thepalprofessor.com/transporting-pals/), where the winner is Mimog.
+    - If you glitch the pathfinding (or place chests next to work-stations), the only factor that stays relevant is their [run speed](https://thepalprofessor.com/transporting-pals/), where the winner is Mimog.
     - The most optimal non-ground loot transporter will not be constrailed by absorption range however, and so being too large is not a factor - Alpha Eidrolon is big and very fast, and also nocturnal.
   - Passives: Swift, Nimble, Runner, Dimensional Leap, (Vampiric)
 
