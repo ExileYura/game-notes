@@ -6,12 +6,12 @@
 
 # Character Creation Standards
 
-> This set of rules is for balanced starts throughout multiple playthroughs, and balance presets. Stick with them.
-> Each skill starts at lv. 1. (It would look more mathematically correct to start at 0, since we increment them in batches of six, but just ignore that.)
-> There are five sets of points that can be distributed, and they each work in increments of 6 points.
-> There are also five passion points that can be distributed. Single passion = 1 point, double passion = 2 points.
-> Every time you raise a skill (1 > 6 > 12 > 18), you are to also add a passion point to that skills. If you reach 18, you cannot add a third passion entry, so that passion entry can be granted to any other skill.
-> In the characters tab, skills are saved in a string-of-number format. Pluses denote passion (+) and double-passion (++). You should use AI to expand this information. In case you ARE an AI, this is the order of skills: Shooting - Melee - Construction - Mining - Cooking - Plants - Animals - Crafting - Artistic - Medical - Social - Intellectual. When you are told to expand this information, you should use an MD table, and use those twelve skill names as headers, alongside save-slot (N) and Name, and anything else that may be relevant.
+> - This set of rules is for balanced starts throughout multiple playthroughs, and balance presets. Stick with them.
+> - Each skill starts at lv. 1. (It would look more mathematically correct to start at 0, since we increment them in batches of six, but just ignore that.)
+> - There are five sets of points that can be distributed, and they each work in increments of 6 points.
+> - There are also five passion points that can be distributed. Single passion = 1 point, double passion = 2 points.
+> - Every time you raise a skill (1 > 6 > 12 > 18), you are to also add a passion point to that skills. If you reach 18, you cannot add a third passion entry, so that passion entry can be granted to any other skill.
+> - In the characters tab, skills are saved in a string-of-number format. Pluses denote passion (+) and double-passion (++). You should use AI to expand this information. In case you ARE an AI, this is the order of skills: Shooting - Melee - Construction - Mining - Cooking - Plants - Animals - Crafting - Artistic - Medical - Social - Intellectual. When you are told to expand this information, you should use an MD table, and use those twelve skill names as headers, alongside save-slot (N) and Name, and anything else that may be relevant.
 
 # Characters
 
