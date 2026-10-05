@@ -6,10 +6,14 @@
 
 # Characters
 
-|   N | Name  | Primary Role | Skills | Mods  | Comment |
-| --: | ----- | ------------ | ------ | ----- | ------- |
-|     | ===== | =====        | =====  | ===== | =====   |
-| 399 | EMPTY |
+|   N | Name | Primary Role | Skills | Mods | Comment |
+| --: | ---- | ------------ | ------ | ---- | ------- |
+
+## Templates
+
+|   N | Name  | Build                                |
+| --: | ----- | ------------------------------------ |
+| 399 | EMPTY | Completely empty / neutral template. |
 
 > Mods: Name of any mod that adds a HUD element or item to the character.
 
