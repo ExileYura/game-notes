@@ -19,9 +19,15 @@
 
 ## Templates
 
-|   N | Name  | Build                                |
-| --: | ----- | ------------------------------------ |
-| 399 | EMPTY | Completely empty / neutral template. |
+|   N | Name             | Build                                           | Comment                             |
+| --: | ---------------- | ----------------------------------------------- | ----------------------------------- |
+| 393 | DOCTOR           | Medical+ : Cooking, Construction-, Crafting     | Competent solo in Pocket Dimension. |
+| 394 | COOK             | Cooking : Shooting, Animals, Medical            |                                     |
+| 395 | RESEARCH         | Intellectual+ : Crafting, Mining, Construction- |                                     |
+| 396 | BUILDER          | Construction : Mining, Plants, Crafting         |                                     |
+| 397 | CRAFTER          | Crafting+, Medical : Construction-              | Useful extra in Pocket Dimension.   |
+| 398 | HUNTER (/WARDEN) | Shooting : Melee, Plants, Social                |                                     |
+| 399 | EMPTY            |                                                 |                                     |
 
 > Mods: Name of any mod that adds a HUD element or item to the character.
 
