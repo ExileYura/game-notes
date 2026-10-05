@@ -22,3 +22,15 @@ I use many mods in this game, consequently I don't remake my modlist every singl
 
 | Date | Notes | NIL |
 | ---- | ----- | --- |
+
+---
+
+# Test New Mods
+
+> Preferably delete entry after the mod is tested and bug-free.
+
+| Mod                                                                                                                                                                               | Comment |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Alpha Crafts](https://steamcommunity.com/workshop/filedetails/?id=3382446150)                                                                                                    |         |
+| [Buy Anything](https://steamcommunity.com/sharedfiles/filedetails/?id=3779413983)                                                                                                 |         |
+| [Cargo Holds](https://steamcommunity.com/sharedfiles/filedetails/?id=3536708812) and [Adaptive Storage Framework](https://steamcommunity.com/workshop/filedetails/?id=3033901359) |
