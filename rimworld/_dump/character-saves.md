@@ -4,6 +4,14 @@
 > Each character is to be saved when created, but also save and overwrite them often so we have the latest version of them.
 > Mind that the file used to store these characters are in "%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\CharacterEditor\pawnslots.txt" - I suspect this not to save to cloud.
 
+# Character Creation Standards
+
+> This set of rules is for balanced starts throughout multiple playthroughs, and balance presets. Stick with them.
+> Each skill starts at lv. 1. (It would look more mathematically correct to start at 0, since we increment them in batches of six, but just ignore that.)
+> There are five sets of points that can be distributed, and they each work in increments of 6 points.
+> There are also five passion points that can be distributed. Single passion = 1 point, double passion = 2 points.
+> Every time you raise a skill (1 > 6 > 12 > 18), you are to also add a passion point to that skills. If you reach 18, you cannot add a third passion entry, so that passion entry can be granted to any other skill.
+
 # Characters
 
 |   N | Name | Primary Role | Skills | Mods | Comment |
@@ -16,5 +24,14 @@
 | 399 | EMPTY | Completely empty / neutral template. |
 
 > Mods: Name of any mod that adds a HUD element or item to the character.
+
+PLANNING:
+
+- Cook /
+- Doctor /
+- Hunter / Plants
+- Research /
+- Construct / Mining
+- Everything Boy
 
 # Capsules
