@@ -43,3 +43,5 @@
 |   N | Mods               | Food            | Medicine     |            |               |            |          |           |                    |                  |            |                    |
 | --: | ------------------ | --------------- | ------------ | ---------- | ------------- | ---------- | -------- | --------- | ------------------ | ---------------- | ---------- | ------------------ |
 |   0 | Tier 2 Temperature | Packaged SM x50 | Medicine x30 | Steel x300 | Component x80 | Longbow x6 | Parka x6 | Duster x6 | Solar Generator x2 | Large Battery x2 | Furnace x1 | Air Conditioner x2 |
+
+> This ^ needs advanced components.
