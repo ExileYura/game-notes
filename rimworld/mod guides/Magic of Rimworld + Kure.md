@@ -1,3 +1,21 @@
+# Research and Crafting
+
+> In recommended order.
+
+|     Line | Research          | Unlock                                                                                                                                                                                                                                                                                                               |
+| -------: | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    Basic | Cultivation       | Plant Paracyte Thornbush => Magicyte (VERIFY)                                                                                                                                                                                                                                                                        |
+|          |                   | Plant Pomanasyrrium Bush => Extract Syrrium at stove (or campfire).                                                                                                                                                                                                                                                  |
+|          |                   | > Leaves behind Mashed Pomana, which can be used in cooking.                                                                                                                                                                                                                                                         |
+|    Basic | Magicyte Refining | Mana Potions are crafted at Stove with 1:1:1 Smokeleaf, Psychoid, Syrrium.                                                                                                                                                                                                                                           |
+| Crystals | Enchanting        | Unlocks Gemcrafting Table.                                                                                                                                                                                                                                                                                           |
+|          |                   | Gems of [Acceleration, Conservation, Force, Holding, Learning, Regeneration, Resistance, and Wonder](https://rwom.fandom.com/wiki/Gems) are unlocked. These exist in 3 sizes - Minor, Normal, and Major; they all require different Skills to craft. You can put one Enchanting Gem on each item. The effects stack. |
+|          |                   |                                                                                                                                                                                                                                                                                                                      |
+|          |                   |                                                                                                                                                                                                                                                                                                                      |
+|          |                   |                                                                                                                                                                                                                                                                                                                      |
+
+# Classes
+
 | Class            | Mod               | Type   |
 | ---------------- | ----------------- | ------ |
 | Ambusher         | Kure's Expansion  | Might  |
