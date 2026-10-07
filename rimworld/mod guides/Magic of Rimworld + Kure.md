@@ -16,6 +16,14 @@
 |          |                                                 | Wands of Ice, Fire, and Lightning.                                                                                                                                                                                                                                              |
 |          |                                                 | Gems of Arcane Insight and Physical Insight can be used to give pawns Magically Gifted or Physically Gifted statuses, which then allows for the learning of magical or physical classes. Crafted at the Gemcrafting Table.                                                      |
 
+---
+
+# Gameplay Journal
+
+- Demon Attack Event: This is an event where a demon attacks the colony. The demon could not see my colonist when he was indoors. This demon drops Demonscale and Demonhide on butcher, which can be used to craft very valuable equipment. The demon can also be artificially summoned via a Magic Circle.
+
+---
+
 # Classes
 
 > There are many classes in the two mods. Initially, I wanted to list each one, and make a comprehensive guide, but to avoid bloat, I will list only classes that I'm familiar with, and give instructions on their playstyle and priorities. I won't over-detail these descriptions, but leave information that is most relevant.
