@@ -24,6 +24,8 @@
 |   4 | Tamago | Cook            | 6+.1.1.1.12++.1.6+.1.1.6+.1.1 |      |         |
 |   5 | Katie  | Researcher      | 1.1.1+.6+.1.1.1.6+.1.1.1.18++ |      |         |
 
+> NOTE: If you make a solo, make sure he has good Social for recruitment.
+
 ## Templates
 
 |   N | Name             | Build                                           | Comment                             |
