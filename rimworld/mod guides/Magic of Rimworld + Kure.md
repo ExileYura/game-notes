@@ -35,3 +35,34 @@
 | Samurai        | Recommended Companion Mod: Anything that adds Japanese-style weapons and armor. While this class can be used with any sword, it is more aesthetic to use with specialized equipment, which is not in any of my general mods.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |                | > [T's Samurai Faction](https://steamcommunity.com/workshop/filedetails/?id=2559958496), [Edo Themed Expansion](https://steamcommunity.com/workshop/filedetails/?id=2878807817), + [patch for prevous two](https://steamcommunity.com/sharedfiles/filedetails/?id=2881645667) give factions and a broader set of contents - recommended to use together by author of Edo mod. [Tasty Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=3494429497) is clothing and weapons only, but more diverse and better looking than the former two. [Neo Samurai](https://steamcommunity.com/sharedfiles/filedetails/?id=3127234420) recommends pretty much all former. |
 |                | > [Erin's Japanese Furniture](https://steamcommunity.com/sharedfiles/filedetails/?id=2354938860) and [Cuisine](https://steamcommunity.com/sharedfiles/filedetails/?id=2542432157), and [UNAGI Japanese Assorments](https://steamcommunity.com/sharedfiles/filedetails/?id=3297676809) (clothes, furniture) are optional.                                                                                                                                                                                                                                                                                                                                                   |
+
+---
+
+# Weapons and Clothing
+
+## Weapons
+
+| Weapon            | Type  |
+| ----------------- | ----- |
+| Elephant Bow      | Bow   |
+| Elephant Spear    | Spear |
+| Wand of Fire      | Magic |
+| Wand of Ice       | Magic |
+| Wand of Lightning | Magic |
+
+## Sets
+
+| Head                          | Body                     | Vibe                             |
+| ----------------------------- | ------------------------ | -------------------------------- |
+| Dreamcatcher Coronet          | Dreamcatcher Buckskin    | Healer, Arcane Res.              |
+| Helm of the Valiant           | Armor of the Valiant     | Combat (Melee / Ranged)          |
+| Hood of Protection            | Mantle of Protection     | Planting, Builder, Arcane Res.   |
+| Cowl / Mask of the Soulreaper | Shroud of the Soulreaper | Energy, Research, "Arcane Power" |
+
+> All of these also gave Class XP and Social bonuses.
+
+## Individual Pieces
+
+|             |                  |           |     |
+| ----------- | ---------------- | --------- | --- |
+| Arcane Hood | Wanderer's Cloak | Mage Robe |     |
