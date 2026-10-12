@@ -22,8 +22,8 @@ CONTENTS:
 | StA. [The Tourist (Remastered)](https://www.minecraftmaps.com/48031-the-tourist-remastered)            | startocrateur, KazerLight                                      | 1.18.1                       | none listed                                                                                                                                                                                           |
 | Terra Restore 1                                                                                        | [mithey](https://www.curseforge.com/members/mithey/projects)   | 1.8.1                        | none listed                                                                                                                                                                                           |
 | Terra Restore 2                                                                                        | [mithey](https://www.curseforge.com/members/mithey/projects)   | 1.9                          | none listed                                                                                                                                                                                           |
-| [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Sea of Flame                             | [Vechs](https://vechsdavion.com)                               | 1.2.5                        |
-| [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Infernal Sky                             | [Vechs](https://vechsdavion.com)                               | 1.2.5                        |
+| [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Sea of Flame II                          | [Vechs](https://vechsdavion.com)                               | 1.2.5                        |
+| [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Infernal Sky II                          | [Vechs](https://vechsdavion.com)                               | 1.2.5                        |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Kaizo Caverns                            | [Vechs](https://vechsdavion.com)                               | 1.2.5                        |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Legendary                                | [Vechs](https://vechsdavion.com)                               | 1.2.5                        |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Nightmare Realm                          | [Vechs](https://vechsdavion.com)                               | 1.2.5                        |
@@ -33,13 +33,14 @@ CONTENTS:
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Inferno Mines                            | [Vechs](https://vechsdavion.com)                               | 1.5.2                        |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Waking Up                                | [Vechs](https://vechsdavion.com)                               | 1.4.7                        |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Iceolation                               | [Vechs](https://vechsdavion.com)                               | 1.12.2                       |
-| [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Dalaina                                  | [Vechs](https://vechsdavion.com)                               | 1.12.2                       |
+| [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Dalania                                  | [Vechs](https://vechsdavion.com)                               | 1.12.2                       |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Spellbound Caves II                      | [Vechs](https://vechsdavion.com)                               | [special](#special-versions) |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Vexelvania                               | [Vechs](https://vechsdavion.com)                               | [special](#special-versions) |
+| [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Sanguine Conquest                        | [Vechs](https://vechsdavion.com)                               | [special](#special-versions) |
 
 ---
 
 # Special Versions
 
-- Super Hostile's Caves II & Vexelvania: Made for Super Hostile Modpack 1.0.97+.
-- Super Hostile's Lethamyr has different versions denoted by letters. The map is the same, except spawners and loot are shuffled, and Victory Monuments are at different locations. Letters A, B, C, and D are largely interchangeable. Letter E is a special Easy mode added much later, where hardcore is disabled.
+- Super Hostile's Caves II, Vexelvania, Sanquine Conquest: Made for Super Hostile Modpack 1.0.97+.
+- Super Hostile's Lethamyr has different versions denoted by letters. The map is the same, except spawners and loot are shuffled, and Victory Monuments are at different locations. Letters A, B, C, and D are largely interchangeable. Letter E is a special Easy mode added much later, where hardcore is disabled - intended version in modern day. A letter J also exists - this is a gimmick version made for a youtuber, and is not included in the vault.
