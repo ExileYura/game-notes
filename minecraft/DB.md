@@ -37,7 +37,19 @@ CONTENTS:
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Spellbound Caves II                      | [Vechs](https://vechsdavion.com)                               | [special](#special-versions) |
 | [Super Hostile](https://vechsdavion.com/super-hostile-maps/): Vexelvania                               | [Vechs](https://vechsdavion.com)                               | [special](#special-versions) |
 
+<<<<<<< HEAD
+
 # Special Versions
 
 - Super Hostile's Caves II & Vexelvania: Made for Super Hostile Modpack 1.0.97+.
 - Super Hostile's Lethamyr has different versions denoted by letters. The map is the same, except spawners and loot are shuffled, and Victory Monuments are at different locations. Letters A, B, C, and D are largely interchangeable. Letter E is a special Easy mode added much later, where hardcore is disabled.
+  a
+
+=======
+
+# Special Versions
+
+- Super Hostile's Caves II & Vexelvania: Made for Super Hostile Modpack 1.0.97+.
+- Super Hostile's Lethamyr has different versions denoted by letters. The map is the same, except spawners and loot are shuffled, and Victory Monuments are at different locations. Letters A, B, C, and D are largely interchangeable. Letter E is a special Easy mode added much later, where hardcore is disabled.
+
+a
