@@ -17,6 +17,8 @@
 
 > - By intention, you should be able to summon any of these pawns to any of your colonies, and save out your existing colonists. This is done in colonies that have Comms Console built, and strictly on the main base.
 > - Saving only highly useful, specialized, characteristic pawns is highly recommended, albiet not a hard rule.
+> - Upon summoning, modifying any pawns via character editor is strictly forbidden.
+> - Creating new pawns is strictly forbidden - you should only use randomly generated ones when making a new game. This is to avoid perfect pawns created via template.
 > - If any of these pawns die in any campaign for any reason, they must be deleted from the list.
 
 # Characters
@@ -31,6 +33,8 @@
 |   5 | Katie  | Researcher      | 1.1.1+.6+.1.1.1.6+.1.1.1.18++ |      |         |
 
 ## Templates
+
+> These exist, but should not be used. It's kinda ruining the game after a while. Take randoms, capture, save, load.
 
 |   N | Name             | Build                                           | Comment                             |
 | --: | ---------------- | ----------------------------------------------- | ----------------------------------- |
