@@ -23,6 +23,8 @@
 
 # Characters
 
+> Mods: List any mod that adds a HUD element or item to the character. This is so you can avoid loading up certain pawns that require mods that you don't have installed.
+
 |   N | Name   | Primary Role    | Skills                        | Mods | Comment |
 | --: | ------ | --------------- | ----------------------------- | ---- | ------- |
 |   0 | Corey  | Hunter / Warden | 12++.6+.1.1.1.6+.1.1.1.1.6+.1 |      |         |
@@ -45,8 +47,6 @@
 | 397 | CRAFTER          | Crafting+, Medical : Construction-              | Useful extra in Pocket Dimension.   |
 | 398 | HUNTER (/WARDEN) | Shooting : Melee, Plants, Social                |                                     |
 | 399 | EMPTY            |                                                 |                                     |
-
-> Mods: Name of any mod that adds a HUD element or item to the character.
 
 # Capsules
 
