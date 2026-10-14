@@ -23,16 +23,16 @@
 
 # Characters
 
-> Mods: List any mod that adds a HUD element or item to the character. This is so you can avoid loading up certain pawns that require mods that you don't have installed.
+> Mods: List any mod that adds a HUD element or item to the character. This is so you can avoid loading up certain pawns that require mods that you don't have installed. Also attempt to avoid using items from non-standard mods when saving.
 
-|   N | Name   | Primary Role    | Skills                        | Mods | Comment |
-| --: | ------ | --------------- | ----------------------------- | ---- | ------- |
-|   0 | Corey  | Hunter / Warden | 12++.6+.1.1.1.6+.1.1.1.1.6+.1 |      |         |
-|   1 | Samuel | Construction    | 1.1.12++.6+.1.6+.1.6+.1.1.1.1 |      |         |
-|   2 | Jace   | Doctor          | 1.1.1+.1.6+.1.1.6+.1.18++.1.1 |      |         |
-|   3 | Sharon | Crafter         | 1.1.1+.1.1.1.1.18++.1.12+.1.1 |      |         |
-|   4 | Tamago | Cook            | 6+.1.1.1.12++.1.6+.1.1.6+.1.1 |      |         |
-|   5 | Katie  | Researcher      | 1.1.1+.6+.1.1.1.6+.1.1.1.18++ |      |         |
+|   N | Name   | Primary Role    | Skills                        | Addictions | Mods | Comment |
+| --: | ------ | --------------- | ----------------------------- | ---------- | ---- | ------- |
+|   0 | Corey  | Hunter / Warden | 12++.6+.1.1.1.6+.1.1.1.1.6+.1 |            |      |
+|   1 | Samuel | Construction    | 1.1.12++.6+.1.6+.1.6+.1.1.1.1 |            |      |
+|   2 | Jace   | Doctor          | 1.1.1+.1.6+.1.1.6+.1.18++.1.1 |            |      |
+|   3 | Sharon | Crafter         | 1.1.1+.1.1.1.1.18++.1.12+.1.1 |            |      |
+|   4 | Tamago | Cook            | 6+.1.1.1.12++.1.6+.1.1.6+.1.1 |            |      |
+|   5 | Katie  | Researcher      | 1.1.1+.6+.1.1.1.6+.1.1.1.18++ |            |      |
 
 ## Templates
 
