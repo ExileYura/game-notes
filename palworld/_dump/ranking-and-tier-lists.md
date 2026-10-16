@@ -1,10 +1,6 @@
-| Type    | Creator      | Link                                                  |
-| ------- | ------------ | ----------------------------------------------------- |
-| Combat  | PalProfessor | https://thepalprofessor.com/end-game-combat-tierlist/ |
-| Base    | PalProfessor | https://thepalprofessor.com/worker-progression/       |
-| Raid    | PalProfessor | https://thepalprofessor.com/raid-army-tierlist/       |
-| Mount   | PalProfessor | https://thepalprofessor.com/mount-tierlist/           |
-| Weapons | PalProfessor | https://thepalprofessor.com/weapons/                  |
+| Type                       | Link                                       |
+| -------------------------- | ------------------------------------------ |
+| Pal Professor's Tier Lists | https://www.thepalprofessor.com/tier-lists |
 
 ---
 
@@ -21,20 +17,3 @@ Note on Transporters:
     - If you glitch the pathfinding (or place chests next to work-stations), the only factor that stays relevant is their [run speed](https://thepalprofessor.com/transporting-pals/), where the winner is Mimog.
     - The most optimal non-ground loot transporter will not be constrailed by absorption range however, and so being too large is not a factor - Alpha Eidrolon is big and very fast, and also nocturnal.
   - Passives: Swift, Nimble, Runner, Dimensional Leap, (Vampiric)
-
----
-
-PalProfessor's Overpowered Combat Pals
-
-| Pal               | Information                                                                  |
-| ----------------- | ---------------------------------------------------------------------------- |
-| Bellanoir +Libero | Highest ATK                                                                  |
-|                   | Two very strong exclusive Actives, even more powerful through Partner Skill. |
-| Knocklem +Ignis   | Partner Skill doubles ATK and DEF.                                           |
-| Moldron           | Two very strong exclusive Actives.                                           |
-| Frostallion +Noct | Uniquely strong ATK bonus on attack type change (40% instead of usual 20%).  |
-|                   | Very good mount for combat.                                                  |
-|                   | Some of the highest base stats.                                              |
-| Felbat            | Strongest (lifesteal) Partner Skill in the game. Makes unkillable.           |
-| Necromus          | Extremely high stats, and powerful exclusive Active.                         |
-| -->> src          | https://www.youtube.com/watch?v=toYU7ofg3-s                                  |

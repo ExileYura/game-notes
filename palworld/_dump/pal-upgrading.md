@@ -6,15 +6,15 @@
 
 | Stg. I: Breeding | Stage II     | Stage III | Best Source    | Base | Team | Exped |
 | ---------------- | ------------ | --------- | -------------- | :--: | :--: | :---: |
-| Potential        | Potential    |           | Buy            |      |  Y   |   Y   |
-| Passives         | Passives     |           | Breed / Varied |  Y   |  Y   |       |
-|                  | Actives      |           | Orchard        |      |  Y   |       |
-|                  | Condensation |           | Buy            |  Y   |  Y   |   Y   |
-|                  | Souls        |           | Butcher        |  Y   |  Y   |   Y   |
-|                  | Trust        | Trust     | Buy            |      |  Y   |   Y   |
-|                  | Suitability  |           | Buy            |  Y   |      |       |
-|                  | Awakening    |           | Expedition     |      |  Y   |   ?   |
-|                  |              | Leveling  | Buy            |      |  Y   |   Y   |
+| Potential        | Potential    |           | Buy            |      |  X   |   X   |
+| Passives         | Passives     |           | Breed / Varied |  X   |  X   |       |
+|                  | Actives      |           | Orchard        |      |  X   |       |
+|                  | Condensation |           | Buy            |  X   |  X   |   X   |
+|                  | Souls        |           | Butcher        |  X   |  X   |   X   |
+|                  | Trust        | Trust     | Buy            |      |  X   |   X   |
+|                  | Suitability  |           | Buy            |  X   |      |       |
+|                  | Awakening    |           | Expedition     |      |  X   |   ?   |
+|                  |              | Leveling  | Buy            |      |  X   |   X   |
 
 > You can make your Pals stronger / more valuable in 9 different ways. The above chart shows during which stage you must apply each method, and which methods are required based on your Pal's role (base, team, or expedition).
 
@@ -30,8 +30,8 @@
 |                            | [>> Alpha Pals >>](alpha-pals.md)                                                                                                                                                                                                                                                                                                                                                                |
 |                            | [Work-in-progress Guide on Getting Pals](how-to-get-pals.md)                                                                                                                                                                                                                                                                                                                                     |
 | Potential                  | -work-in-progress-                                                                                                                                                                                                                                                                                                                                                                               |
-| Passives                   | My [list](passives.md) of passives. This only includes the positive ones. I tried to organize them, but there are just too many, and you can get passives from a variety of sources, so this is a flawed and incomplete resources that I don't intend to fix.                                                                                                                                    |
-|                            | [PalProfessor's list](https://thepalprofessor.com/best-builds/) on best passives for each role. Post world-tree. Accurate, recommended.                                                                                                                                                                                                                                                          |
+| Passives                   | An all-inclusive list of [Passives](https://www.thepalprofessor.com/passive-skills), including what you can add on a [surgery table](https://www.thepalprofessor.com/passive-skills).                                                                                                                                                                                                            |
+|                            | [PalProfessor's list](https://www.thepalprofessor.com/best-passive-skills) on best passives for each role. Post world-tree. Accurate, recommended.                                                                                                                                                                                                                                               |
 | Actives                    | You can farm these by planting Skill Trees in the late-game. I will make a resource on this eventually.                                                                                                                                                                                                                                                                                          |
 | Condensation & Suitability | Increasing the stars of your pal at the blender. The first three increases add one level for a single work-suitability, the last start adds one level for every work-suitability a pal has.                                                                                                                                                                                                      |
 |                            | You can also increase condensation level by using Starfruit items, which you can mostly buy from some vendors. This is fast but expensive.                                                                                                                                                                                                                                                       |
@@ -40,6 +40,6 @@
 | Souls                      | Each pal can be strengthened through feeding Souls into them at the Statue of Power, to a maximum bonus of 60% ATK, DEF, HP, and Work Speed. My favored Breed & Butcher pal for soul farming is Sekhmet mid-game, and Dandilord for power world-tree - but there are many options.                                                                                                               |
 | Trust                      | Trust can be obtained by having the pal on your team for a long time, or by feeding your pals Kinship Peaches. You get small Kinship Peaches by liberating outposts and releasing the captured pal in the center, and you can buy large Kinship Peaches at the Bounty Officer for 15 Bounty Tokens. [Very good video on Bounty Token farming](https://youtu.be/KnNf6t3FEG0?si=GS4s5gQXsJzO3WZQ). |
 | Awakening                  | -work-in-progress-                                                                                                                                                                                                                                                                                                                                                                               |
-| Leveling                   | -work-in-progress- / [EXP Table](https://thepalprofessor.com/xp-tables/) / [Leveling Guide](leveling-guide.md)                                                                                                                                                                                                                                                                                   |
+| Leveling                   | -work-in-progress- / [Leveling Guide](leveling-guide.md)                                                                                                                                                                                                                                                                                                                                         |
 
 [<< INDEX <<](../!index.md)
