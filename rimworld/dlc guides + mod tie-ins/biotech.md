@@ -8,8 +8,6 @@
 
 # Mechanoids
 
-# Mechanoids
-
 Mechanoids are dickheads that attack your colony occasionally. They are an all-around upgrade to human raids. You can also control them. Below is the general work-flow on how to become a Mech Overlord.
 
 |                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |     |
@@ -74,56 +72,6 @@ Mechanoids are dickheads that attack your colony occasionally. They are an all-a
 |     High | [Astronaut](https://steamcommunity.com/sharedfiles/filedetails/?id=3609835606) - A bot for gravship maintenance, capable of crafting and firefighting in orbit.                                                                                                                                      |
 |     High | [Astropede](https://steamcommunity.com/sharedfiles/filedetails/?id=3609835606) - Space lancers for space engagements.                                                                                                                                                                                |
 |     High | [Hunter](https://steamcommunity.com/sharedfiles/filedetails/?id=3609835606) - Short range, rapid fire, high damage.                                                                                                                                                                                  |
-
-Progression (Draft)
-
-1. Becoming a Mechanitor
-
-   - Acquiring a mechlink
-   - Choosing a suitable colonist
-   - Mech bandwidth and control
-
-2) Basic Mechtech
-
-   - Research requirements
-   - Mech gestator and subcore encoder
-   - First mechanoids
-   - Basic labor and combat roles
-
-3. Mechanoid Infrastructure
-
-   - Charging and power
-   - Repair and resurrection
-   - Subcore production
-   - Pollution and wastepack management
-
-4. Expanding the Workforce
-
-   - Standard Mechtech and advanced research
-   - Large gestator and recharger
-   - More specialized mechanoids
-   - Increasing bandwidth
-
-5. Advanced Mechtech
-
-   - Mechanoid bosses
-   - Acquiring advanced technology
-   - High-tier mechanoids
-   - Advanced mechanitor upgrades
-
-6. Practical Notes
-
-   - Best mechanoids for each task
-   - Resource and power costs
-   - Limitations and maintenance
-   - Useful combinations with other mods
-
-7. Personal Progression Log
-
-   - Current research
-   - Current mechanoid roster
-   - Next objectives
-   - Lessons learned
 
 [^ top ^](#index)
 
