@@ -24,6 +24,8 @@ I want to reorganize my mod lists so they are more modular, and everything conta
 - Newly Added - a category that includes newly added mods, where they must be tested (for content, performance, bugs, etc...) before they are relocated to another higher-order category.
 - Awaiting Update - This should be a file inside this database instead, so that I can comment all of them and list temporary replacements.
 
+Remove: Trader Dismiss, BuyEverything is optional
+
 ---
 
 # Mod Notes
