@@ -1,80 +1,57 @@
-|                                 |
-| ------------------------------- |
-| ---> THE FOOL <---              |
-| Intro ([choice](_dump/path.md)) |
+Interchangeable entries are placed next to each other.
 
-=== MARKINGS ===
-(o) => Quest order is interchangeable.
-(||) => Optimal time to pause to do side-content (after THIS quest).
-(-) => These quests might not be available depending on decisions made in previous quests. If unavailable, mark them as completed.
-(>) => This quest plays well into the quest under it, either due to story continuity, or location convenience.
+# PATH
 
-=== LOCKDOWN (INTRO) ===
+|                                                                                                                                                            |                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ---> THE FOOL <---                                                                                                                                         |                                                                                                          |
+| Intro ([choice](_dump/path.md))                                                                                                                            |                                                                                                          |
+| The Rescue                                                                                                                                                 |                                                                                                          |
+| > The Gun                                                                                                                                                  |                                                                                                          |
+| The Ripperdoc                                                                                                                                              |                                                                                                          |
+| The Ride                                                                                                                                                   |                                                                                                          |
+| -- PAUSE                                                                                                                                                   |                                                                                                          |
+| [Gigs: Watson](#watson)                                                                                                                                    | NCPD: Watson                                                                                             |
+| > [Burning Desires / Night Moves](https://www.powerpyx.com/wp-content/uploads/cyberpunk-2077-night-moves-location-1.jpg)                                   | > [Sacrum Profanum](https://www.powerpyx.com/wp-content/uploads/Cyberpunk-Losing-My-Religion-01-360.jpg) |
+| > Paid in Full                                                                                                                                             |                                                                                                          |
+| Psycho Killer - Watson (difficult)                                                                                                                         |                                                                                                          |
+| -- CONTINUE                                                                                                                                                |
+| The Pickup - [missables](_dump/missables.md) - [extras](_dump/extras.md)                                                                                   | The Information                                                                                          |
+| The Heist                                                                                                                                                  |                                                                                                          |
+| > The Gift                                                                                                                                                 |                                                                                                          |
+| > [Beat on the Brat: Kabuki](https://oyster.ignimgs.com/mediawiki/apis.ign.com/cyberpunk-2077/1/18/CP2077BBK_Map_Location.jpg?width=1920) (Twins / $8,000) |
 
-> NOTES
+---
+
+# GIGS
+
+## Watson
+
+|      |                                         |                           |                            |
+| ---: | --------------------------------------- | ------------------------- | -------------------------- |
+|      |                                         | --- Watson / Regina ---   |                            |
+|    I | Playing for Keeps                       | Monster Hunt (Jotaro)     | Hippocratic Oath (Doctor)  |
+|      | Many Ways to Skin a Cat                 | Rite of Passage           |                            |
+|   II | Welcome to America, Comrade             | Troublesome Neighbors     | Dirty Biz (Preacher's Son) |
+|  III | Catch a Tyger's Toe                     | Woman of La Mancha        | Backs Against the Wall     |
+|   IV | Shark in the Water                      | Flight of the Cheetah     |                            |
+|    V | Small Man, Big Evil (Jotaro's Supplier) | Last Login                |                            |
+|   VI | Bloodsport                              | Scrolls Before Swine      |                            |
+|  VII | Freedom of the Press                    | Lousy Kleppers            |                            |
+| VIII | The Heisenberg Principle                | Fixer, Merc, Soldier, Spy | Occupational Hazard        |
+|      | Concrete Cage Trap                      |                           |                            |
+|   IX | Last Call                               |                           |                            |
+
+# CYBER-PSYCHOS
+
+|                                |                             |
+| ------------------------------ | --------------------------- |
+| -- WATSON                      |                             |
+| Where the Bodies Hit the Floor | Six Feet Under              |
+| Lt. Mower                      | Ticket to the Major Leagues |
 
 - Progress Garry's quest (Prophet's Song) when around Misty's Esoterica, and donate properly each time. (Five occasions listed as required.)
 - The quest 'Upgrade U' should be available in this segment, but might not trigger in some game versions.
-
-- [x] Sandra Dorsett / Intro
-- [x] The Gun (Gun Vendor Wilson, in H10)
-- The Heist - MAIN
-  - [x] Ripperdoc
-    - [x] Paid in Full
-      - REQ: 21,000€$. (Can save time if the money is available when you first get here).
-  - [x] The Ride (||)
-    - Pausing here is highly recommended; finish side-content and get familiar with the game - 'The Heist' will conclude the introduction of the game, optimally finish everything you can by then.
-  - [x] The Pickup (o)
-    - Venus in Furs - Preparation for Missable Quest
-      - Meet Meredith - Don't Decrypt Chip - Pay with Chip - Defeat Maelstrom
-      - Meredith later sends a message to player; flirt with her to unlock the quest.
-    - If Nomad: Talk about Jackie's Bike when meeting him in front of All Foods.
-    - Try to save Brick; code is in room right of his prison. He shows up in later quest.
-  - [x] The Information (o)
-  - [x] The Heist
-- [x] The Gift (T-Bug)
-- [x] Beat on the Brat: Kabuki (Twins) (REC: 8,000€$ raise.)
-- [x] Burning Desire / Night Moves (North of H10)
-- [x] Sacrum Profanum (Monk, northern docks)
-- [x] NCPD Missions - Watson
-- [x] Gigs - Watson (Regina)
-  - [x] Playing for Keeps
-  - [x] Monster Hunt (Jotaro)
-  - [x] Hippocratic Oath (Doctor)
-  - [x] Many Ways to Skin a Cat
-  - [x] Rite of Passage
-  - ==========
-  - [x] Welcome to America, Comrade
-  - [x] Troublesome Neighbors
-  - [x] Dirty Biz (Preacher's Son)
-  - ==========
-  - [x] Catch a Tyger's Toe
-  - [x] Woman of La Mancha
-  - [x] Backs Against the Wall
-  - ==========
-  - [x] Shark in the Water
-  - [x] Flight of the Cheetah
-  - ==========
-  - [x] Small Man, Big Evil (Jotaro's Supplier)
-  - [x] Last Login
-  - ==========
-  - [x] Bloodsport
-  - [x] Scrolls Before Swine
-  - ==========
-  - [x] Freedom of the Press
-  - [x] Lousy Kleppers
-  - ==========
-  - [x] The Heisenberg Principle
-  - [x] Fixer, Merc, Soldier, Spy
-  - [x] Occupational Hazard
-  - [x] Concrete Cage Trap
-  - ==========
-  - [x] Last Call (Regina's Final Reward)
-- [x] Cyberpsycho (Psycho Killer) - Watson
-  - [x] Where the Bodies Hit the Floor
-  - [x] Six Feet Under
-  - [x] Lt. Mower
-  - [x] Ticket to the Major Leagues
 
 === GAME + DLC ===
 
